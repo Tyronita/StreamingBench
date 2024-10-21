@@ -45,16 +45,11 @@ def StreamingBenchActiveEval(data, MODEL, output_path):
             query = f"{question['question']} Is it the right time to output \"{question['ground_truth_output']}\"? You can only answer yes or no."
             inp = PROMPT_TEMPLATE_ACTIVE.format(query)
 
-            current_time = start_time
+            current_time = start_time + 1
 
             while current_time <= max_time:
 
-                if current_time < ground_truth_time - 10:
-                    interval = 5
-                elif ground_truth_time - 10 <= current_time < ground_truth_time - 5:
-                    interval = 2
-                else:
-                    interval = 1
+                interval = 1
 
                 if current_time == 0:
                     current_time += 1

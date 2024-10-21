@@ -3,7 +3,7 @@
 # export HF_HOME="/yeesuanAI05/thumt/wzh/huggingface_cache"
 # export PYTORCH_CUDA_ALLOC_CONF=max_split_size_mb:128
 # export DECORD_EOF_RETRY_MAX=20480
-
+cd ../src
 EVAL_MODEL="GPT4o"
 
 Devices=0

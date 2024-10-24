@@ -1,7 +1,7 @@
 # StreamingBench: Assessing the Gap for MLLMs to Achieve Streaming Video Understanding
 
 <p align="center">
-    <img src="./static/images/StreamingBench.png" width="30%" height="30%">
+    <img src="./images/StreamingBench.png" width="30%" height="30%">
 </p>
 
 <font size=7><div align='center'>[[🍎 Project Page](https://streamingbench.github.io/)] [[📖 arXiv Paper](https://arxiv.org/pdf/ICLR_2025)] [[📊 Dataset](https://huggingface.co/datasets/mjuicem/StreamingBench)][[🏆 Leaderboard](https://streamingbench.github.io/home_page.html#leaderboard)]</div></font>

@@ -42,8 +42,6 @@ As MLLMs continue to advance, they remain largely focused on offline video compr
   <img src="./images/example.gif" width="100%" alt="Dataset Example">
 </div>
 
-
-./images/example.mp4
 ## 🔍 Dataset
 
 **License**: [License information to be added]

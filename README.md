@@ -45,3 +45,13 @@ As MLLMs continue to advance, they remain largely focused on offline video compr
 ## 🔍 Dataset
 
 **License**: [License information to be added]
+
+
+
+## 🔮 Evaluation Pipeline
+
+
+
+
+
+## ⚙️ Data Construction Pipeline

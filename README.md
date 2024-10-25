@@ -45,6 +45,7 @@ As MLLMs continue to advance, they remain largely focused on offline video compr
   </video>
 </div>
 
+./images/example.mp4
 ## 🔍 Dataset
 
 **License**: [License information to be added]

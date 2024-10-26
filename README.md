@@ -64,7 +64,7 @@ src/data_construction/
 │   │   ├── video.mp4
 │   │   ├── images/
 │   │   ├── captions.json
-│   │   └──questions.json
+│   │   └── questions.json
 │   │   ...
 ├── run_pipeline.py         # Main pipeline script
 ├── config.py              # Configuration settings

@@ -1,7 +1,7 @@
 # StreamingBench: Assessing the Gap for MLLMs to Achieve Streaming Video Understanding
 
 <div align="center">
-  <img src="./images/icon.png" width="100%" alt="StreamingBench Banner">
+  <img src="./figs/icon.png" width="100%" alt="StreamingBench Banner">
 
   <div style="margin: 30px 0">
     <a href="https://streamingbench.github.io/" style="margin: 0 10px">🏠 Project Page</a> |
@@ -28,18 +28,18 @@ As MLLMs continue to advance, they remain largely focused on offline video compr
 - ⏱️ Five questions per video at different timestamps
 #### 🎬 Video Categories
 <div align="center">
-  <img src="./images/StreamingBench_Video.png" width="80%" alt="Video Categories">
+  <img src="./figs/StreamingBench_Video.png" width="80%" alt="Video Categories">
 </div>
 
 #### 🔍 Task Taxonomy
 <div align="center">
-  <img src="./images/task_taxonomy.png" width="80%" alt="Task Taxonomy">
+  <img src="./figs/task_taxonomy.png" width="80%" alt="Task Taxonomy">
 </div>
 
 ## 📐 Dataset Examples
 
 <div align="center">
-  <img src="./images/example.gif" width="100%" alt="Dataset Example">
+  <img src="./figs/example.gif" width="100%" alt="Dataset Example">
 </div>
 
 ## 🔍 Dataset

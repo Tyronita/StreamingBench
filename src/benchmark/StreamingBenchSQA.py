@@ -22,17 +22,17 @@ Options:
 
 The best option is:'''
 
-class StreamingBenchContext(Benchmark):
+class StreamingBenchSQA(Benchmark):
     def __init__(self, data):
-        StreamingBenchContextInit(data)
+        StreamingBenchSQAInit(data)
 
     def eval(self, data, model):
-        StreamingBenchContextEval(data, model)
+        StreamingBenchSQAEval(data, model)
 
-def StreamingBenchContextInit(data):
+def StreamingBenchSQAInit(data):
     pass
 
-def StreamingBenchContextEval(data, MODEL, output_path):
+def StreamingBenchSQAEval(data, MODEL, output_path):
     for video_data in tqdm.tqdm(data):  
         context = ""
         for subset in video_data:  

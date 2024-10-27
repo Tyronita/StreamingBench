@@ -18,7 +18,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_17_context.mp4"
+            "video_path": "./videos/sample_17_sqa.mp4"
         },
         {
             "time": "[0:02:00 - 0:03:00]",
@@ -38,7 +38,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_17_context.mp4"
+            "video_path": "./videos/sample_17_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -58,7 +58,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_17_context.mp4"
+            "video_path": "./videos/sample_17_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -78,7 +78,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_17_context.mp4"
+            "video_path": "./videos/sample_17_sqa.mp4"
         },
         {
             "time": "[0:06:00 - 0:07:00]",
@@ -98,7 +98,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_17_context.mp4"
+            "video_path": "./videos/sample_17_sqa.mp4"
         }
     ],
     [
@@ -120,7 +120,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_32_context.mp4"
+            "video_path": "./videos/sample_32_sqa.mp4"
         },
         {
             "time": "[0:02:00 - 0:03:00]",
@@ -140,7 +140,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_32_context.mp4"
+            "video_path": "./videos/sample_32_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -160,7 +160,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_32_context.mp4"
+            "video_path": "./videos/sample_32_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -180,7 +180,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_32_context.mp4"
+            "video_path": "./videos/sample_32_sqa.mp4"
         },
         {
             "time": "[0:06:00 - 0:07:00]",
@@ -200,7 +200,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_32_context.mp4"
+            "video_path": "./videos/sample_32_sqa.mp4"
         }
     ],
     [
@@ -222,7 +222,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_42_context.mp4"
+            "video_path": "./videos/sample_42_sqa.mp4"
         },
         {
             "time": "[0:02:00 - 0:03:00]",
@@ -242,7 +242,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_42_context.mp4"
+            "video_path": "./videos/sample_42_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -262,7 +262,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_42_context.mp4"
+            "video_path": "./videos/sample_42_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -282,7 +282,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_42_context.mp4"
+            "video_path": "./videos/sample_42_sqa.mp4"
         },
         {
             "time": "[0:06:00 - 0:07:00]",
@@ -302,7 +302,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_42_context.mp4"
+            "video_path": "./videos/sample_42_sqa.mp4"
         }
     ],
     [
@@ -324,7 +324,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_49_context.mp4"
+            "video_path": "./videos/sample_49_sqa.mp4"
         },
         {
             "time": "[0:02:00 - 0:03:00]",
@@ -344,7 +344,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_49_context.mp4"
+            "video_path": "./videos/sample_49_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -364,7 +364,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_49_context.mp4"
+            "video_path": "./videos/sample_49_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -384,7 +384,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_49_context.mp4"
+            "video_path": "./videos/sample_49_sqa.mp4"
         },
         {
             "time": "[0:06:00 - 0:07:00]",
@@ -404,7 +404,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_49_context.mp4"
+            "video_path": "./videos/sample_49_sqa.mp4"
         }
     ],
     [
@@ -426,7 +426,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_48_context.mp4"
+            "video_path": "./videos/sample_48_sqa.mp4"
         },
         {
             "time": "[0:02:00 - 0:03:00]",
@@ -446,7 +446,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_48_context.mp4"
+            "video_path": "./videos/sample_48_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -466,7 +466,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_48_context.mp4"
+            "video_path": "./videos/sample_48_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -486,7 +486,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_48_context.mp4"
+            "video_path": "./videos/sample_48_sqa.mp4"
         },
         {
             "time": "[0:06:00 - 0:07:00]",
@@ -506,7 +506,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_48_context.mp4"
+            "video_path": "./videos/sample_48_sqa.mp4"
         }
     ],
     [
@@ -528,7 +528,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_38_context.mp4"
+            "video_path": "./videos/sample_38_sqa.mp4"
         },
         {
             "time": "[0:02:00 - 0:03:00]",
@@ -548,7 +548,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_38_context.mp4"
+            "video_path": "./videos/sample_38_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -568,7 +568,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_38_context.mp4"
+            "video_path": "./videos/sample_38_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -588,7 +588,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_38_context.mp4"
+            "video_path": "./videos/sample_38_sqa.mp4"
         },
         {
             "time": "[0:06:00 - 0:07:00]",
@@ -608,7 +608,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_38_context.mp4"
+            "video_path": "./videos/sample_38_sqa.mp4"
         }
     ],
     [
@@ -630,7 +630,7 @@
                 }
             ],
             "video_categories": "tennis",
-            "video_path": "./videos/sample_28_context.mp4"
+            "video_path": "./videos/sample_28_sqa.mp4"
         },
         {
             "time": "[0:02:00 - 0:03:00]",
@@ -650,7 +650,7 @@
                 }
             ],
             "video_categories": "tennis",
-            "video_path": "./videos/sample_28_context.mp4"
+            "video_path": "./videos/sample_28_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -670,7 +670,7 @@
                 }
             ],
             "video_categories": "tennis",
-            "video_path": "./videos/sample_28_context.mp4"
+            "video_path": "./videos/sample_28_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -690,7 +690,7 @@
                 }
             ],
             "video_categories": "tennis",
-            "video_path": "./videos/sample_28_context.mp4"
+            "video_path": "./videos/sample_28_sqa.mp4"
         },
         {
             "time": "[0:06:00 - 0:07:00]",
@@ -710,7 +710,7 @@
                 }
             ],
             "video_categories": "tennis",
-            "video_path": "./videos/sample_28_context.mp4"
+            "video_path": "./videos/sample_28_sqa.mp4"
         }
     ],
     [
@@ -732,7 +732,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_36_context.mp4"
+            "video_path": "./videos/sample_36_sqa.mp4"
         },
         {
             "time": "[0:02:00 - 0:03:00]",
@@ -752,7 +752,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_36_context.mp4"
+            "video_path": "./videos/sample_36_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -772,7 +772,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_36_context.mp4"
+            "video_path": "./videos/sample_36_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -792,7 +792,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_36_context.mp4"
+            "video_path": "./videos/sample_36_sqa.mp4"
         },
         {
             "time": "[0:06:00 - 0:07:00]",
@@ -812,7 +812,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_36_context.mp4"
+            "video_path": "./videos/sample_36_sqa.mp4"
         }
     ],
     [
@@ -834,7 +834,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_50_context.mp4"
+            "video_path": "./videos/sample_50_sqa.mp4"
         },
         {
             "time": "[0:02:00 - 0:03:00]",
@@ -854,7 +854,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_50_context.mp4"
+            "video_path": "./videos/sample_50_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -874,7 +874,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_50_context.mp4"
+            "video_path": "./videos/sample_50_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -894,7 +894,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_50_context.mp4"
+            "video_path": "./videos/sample_50_sqa.mp4"
         },
         {
             "time": "[0:06:00 - 0:07:00]",
@@ -914,7 +914,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_50_context.mp4"
+            "video_path": "./videos/sample_50_sqa.mp4"
         }
     ],
     [
@@ -936,7 +936,7 @@
                 }
             ],
             "video_categories": "tennis",
-            "video_path": "./videos/sample_27_context.mp4"
+            "video_path": "./videos/sample_27_sqa.mp4"
         },
         {
             "time": "[0:02:00 - 0:03:00]",
@@ -956,7 +956,7 @@
                 }
             ],
             "video_categories": "tennis",
-            "video_path": "./videos/sample_27_context.mp4"
+            "video_path": "./videos/sample_27_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -976,7 +976,7 @@
                 }
             ],
             "video_categories": "tennis",
-            "video_path": "./videos/sample_27_context.mp4"
+            "video_path": "./videos/sample_27_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -996,7 +996,7 @@
                 }
             ],
             "video_categories": "tennis",
-            "video_path": "./videos/sample_27_context.mp4"
+            "video_path": "./videos/sample_27_sqa.mp4"
         },
         {
             "time": "[0:06:00 - 0:07:00]",
@@ -1016,7 +1016,7 @@
                 }
             ],
             "video_categories": "tennis",
-            "video_path": "./videos/sample_27_context.mp4"
+            "video_path": "./videos/sample_27_sqa.mp4"
         }
     ],
     [
@@ -1038,7 +1038,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_43_context.mp4"
+            "video_path": "./videos/sample_43_sqa.mp4"
         },
         {
             "time": "[0:02:00 - 0:03:00]",
@@ -1058,7 +1058,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_43_context.mp4"
+            "video_path": "./videos/sample_43_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -1078,7 +1078,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_43_context.mp4"
+            "video_path": "./videos/sample_43_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -1098,7 +1098,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_43_context.mp4"
+            "video_path": "./videos/sample_43_sqa.mp4"
         },
         {
             "time": "[0:06:00 - 0:07:00]",
@@ -1118,7 +1118,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_43_context.mp4"
+            "video_path": "./videos/sample_43_sqa.mp4"
         }
     ],
     [
@@ -1140,7 +1140,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_4_context.mp4"
+            "video_path": "./videos/sample_4_sqa.mp4"
         },
         {
             "time": "[0:02:00 - 0:03:00]",
@@ -1160,7 +1160,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_4_context.mp4"
+            "video_path": "./videos/sample_4_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -1180,7 +1180,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_4_context.mp4"
+            "video_path": "./videos/sample_4_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -1200,7 +1200,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_4_context.mp4"
+            "video_path": "./videos/sample_4_sqa.mp4"
         },
         {
             "time": "[0:06:00 - 0:07:00]",
@@ -1220,7 +1220,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_4_context.mp4"
+            "video_path": "./videos/sample_4_sqa.mp4"
         }
     ],
     [
@@ -1242,7 +1242,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_19_context.mp4"
+            "video_path": "./videos/sample_19_sqa.mp4"
         },
         {
             "time": "[0:02:00 - 0:03:00]",
@@ -1262,7 +1262,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_19_context.mp4"
+            "video_path": "./videos/sample_19_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -1282,7 +1282,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_19_context.mp4"
+            "video_path": "./videos/sample_19_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -1302,7 +1302,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_19_context.mp4"
+            "video_path": "./videos/sample_19_sqa.mp4"
         },
         {
             "time": "[0:06:00 - 0:07:00]",
@@ -1322,7 +1322,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_19_context.mp4"
+            "video_path": "./videos/sample_19_sqa.mp4"
         }
     ],
     [
@@ -1344,7 +1344,7 @@
                 }
             ],
             "video_categories": "tennis",
-            "video_path": "./videos/sample_22_context.mp4"
+            "video_path": "./videos/sample_22_sqa.mp4"
         },
         {
             "time": "[0:02:00 - 0:03:00]",
@@ -1364,7 +1364,7 @@
                 }
             ],
             "video_categories": "tennis",
-            "video_path": "./videos/sample_22_context.mp4"
+            "video_path": "./videos/sample_22_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -1384,7 +1384,7 @@
                 }
             ],
             "video_categories": "tennis",
-            "video_path": "./videos/sample_22_context.mp4"
+            "video_path": "./videos/sample_22_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -1404,7 +1404,7 @@
                 }
             ],
             "video_categories": "tennis",
-            "video_path": "./videos/sample_22_context.mp4"
+            "video_path": "./videos/sample_22_sqa.mp4"
         },
         {
             "time": "[0:06:00 - 0:07:00]",
@@ -1424,7 +1424,7 @@
                 }
             ],
             "video_categories": "tennis",
-            "video_path": "./videos/sample_22_context.mp4"
+            "video_path": "./videos/sample_22_sqa.mp4"
         }
     ],
     [
@@ -1446,7 +1446,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_18_context.mp4"
+            "video_path": "./videos/sample_18_sqa.mp4"
         },
         {
             "time": "[0:02:00 - 0:03:00]",
@@ -1466,7 +1466,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_18_context.mp4"
+            "video_path": "./videos/sample_18_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -1486,7 +1486,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_18_context.mp4"
+            "video_path": "./videos/sample_18_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -1506,7 +1506,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_18_context.mp4"
+            "video_path": "./videos/sample_18_sqa.mp4"
         },
         {
             "time": "[0:06:00 - 0:07:00]",
@@ -1526,7 +1526,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_18_context.mp4"
+            "video_path": "./videos/sample_18_sqa.mp4"
         }
     ],
     [
@@ -1548,7 +1548,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_9_context.mp4"
+            "video_path": "./videos/sample_9_sqa.mp4"
         },
         {
             "time": "[0:02:00 - 0:03:00]",
@@ -1568,7 +1568,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_9_context.mp4"
+            "video_path": "./videos/sample_9_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -1588,7 +1588,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_9_context.mp4"
+            "video_path": "./videos/sample_9_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -1608,7 +1608,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_9_context.mp4"
+            "video_path": "./videos/sample_9_sqa.mp4"
         },
         {
             "time": "[0:06:00 - 0:07:00]",
@@ -1628,7 +1628,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_9_context.mp4"
+            "video_path": "./videos/sample_9_sqa.mp4"
         }
     ],
     [
@@ -1650,7 +1650,7 @@
                 }
             ],
             "video_categories": "tennis",
-            "video_path": "./videos/sample_25_context.mp4"
+            "video_path": "./videos/sample_25_sqa.mp4"
         },
         {
             "time": "[0:02:00 - 0:03:00]",
@@ -1670,7 +1670,7 @@
                 }
             ],
             "video_categories": "tennis",
-            "video_path": "./videos/sample_25_context.mp4"
+            "video_path": "./videos/sample_25_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -1690,7 +1690,7 @@
                 }
             ],
             "video_categories": "tennis",
-            "video_path": "./videos/sample_25_context.mp4"
+            "video_path": "./videos/sample_25_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -1710,7 +1710,7 @@
                 }
             ],
             "video_categories": "tennis",
-            "video_path": "./videos/sample_25_context.mp4"
+            "video_path": "./videos/sample_25_sqa.mp4"
         },
         {
             "time": "[0:06:00 - 0:07:00]",
@@ -1730,7 +1730,7 @@
                 }
             ],
             "video_categories": "tennis",
-            "video_path": "./videos/sample_25_context.mp4"
+            "video_path": "./videos/sample_25_sqa.mp4"
         }
     ],
     [
@@ -1752,7 +1752,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_39_context.mp4"
+            "video_path": "./videos/sample_39_sqa.mp4"
         },
         {
             "time": "[0:02:00 - 0:03:00]",
@@ -1772,7 +1772,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_39_context.mp4"
+            "video_path": "./videos/sample_39_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -1792,7 +1792,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_39_context.mp4"
+            "video_path": "./videos/sample_39_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -1812,7 +1812,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_39_context.mp4"
+            "video_path": "./videos/sample_39_sqa.mp4"
         },
         {
             "time": "[0:06:00 - 0:07:00]",
@@ -1832,7 +1832,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_39_context.mp4"
+            "video_path": "./videos/sample_39_sqa.mp4"
         }
     ],
     [
@@ -1854,7 +1854,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_12_context.mp4"
+            "video_path": "./videos/sample_12_sqa.mp4"
         },
         {
             "time": "[0:02:00 - 0:03:00]",
@@ -1874,7 +1874,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_12_context.mp4"
+            "video_path": "./videos/sample_12_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -1894,7 +1894,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_12_context.mp4"
+            "video_path": "./videos/sample_12_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -1914,7 +1914,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_12_context.mp4"
+            "video_path": "./videos/sample_12_sqa.mp4"
         },
         {
             "time": "[0:06:00 - 0:07:00]",
@@ -1934,7 +1934,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_12_context.mp4"
+            "video_path": "./videos/sample_12_sqa.mp4"
         }
     ],
     [
@@ -1956,7 +1956,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_5_context.mp4"
+            "video_path": "./videos/sample_5_sqa.mp4"
         },
         {
             "time": "[0:02:00 - 0:03:00]",
@@ -1976,7 +1976,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_5_context.mp4"
+            "video_path": "./videos/sample_5_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -1996,7 +1996,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_5_context.mp4"
+            "video_path": "./videos/sample_5_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -2016,7 +2016,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_5_context.mp4"
+            "video_path": "./videos/sample_5_sqa.mp4"
         },
         {
             "time": "[0:06:00 - 0:07:00]",
@@ -2036,7 +2036,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_5_context.mp4"
+            "video_path": "./videos/sample_5_sqa.mp4"
         }
     ],
     [
@@ -2058,7 +2058,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_41_context.mp4"
+            "video_path": "./videos/sample_41_sqa.mp4"
         },
         {
             "time": "[0:02:00 - 0:03:00]",
@@ -2078,7 +2078,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_41_context.mp4"
+            "video_path": "./videos/sample_41_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -2098,7 +2098,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_41_context.mp4"
+            "video_path": "./videos/sample_41_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -2118,7 +2118,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_41_context.mp4"
+            "video_path": "./videos/sample_41_sqa.mp4"
         },
         {
             "time": "[0:06:00 - 0:07:00]",
@@ -2138,7 +2138,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_41_context.mp4"
+            "video_path": "./videos/sample_41_sqa.mp4"
         }
     ],
     [
@@ -2160,7 +2160,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_31_context.mp4"
+            "video_path": "./videos/sample_31_sqa.mp4"
         },
         {
             "time": "[0:02:00 - 0:03:00]",
@@ -2180,7 +2180,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_31_context.mp4"
+            "video_path": "./videos/sample_31_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -2200,7 +2200,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_31_context.mp4"
+            "video_path": "./videos/sample_31_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -2220,7 +2220,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_31_context.mp4"
+            "video_path": "./videos/sample_31_sqa.mp4"
         },
         {
             "time": "[0:06:00 - 0:07:00]",
@@ -2240,7 +2240,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_31_context.mp4"
+            "video_path": "./videos/sample_31_sqa.mp4"
         }
     ],
     [
@@ -2262,7 +2262,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_14_context.mp4"
+            "video_path": "./videos/sample_14_sqa.mp4"
         },
         {
             "time": "[0:02:00 - 0:03:00]",
@@ -2282,7 +2282,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_14_context.mp4"
+            "video_path": "./videos/sample_14_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -2302,7 +2302,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_14_context.mp4"
+            "video_path": "./videos/sample_14_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -2322,7 +2322,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_14_context.mp4"
+            "video_path": "./videos/sample_14_sqa.mp4"
         },
         {
             "time": "[0:06:00 - 0:07:00]",
@@ -2342,7 +2342,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_14_context.mp4"
+            "video_path": "./videos/sample_14_sqa.mp4"
         }
     ],
     [
@@ -2364,7 +2364,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_35_context.mp4"
+            "video_path": "./videos/sample_35_sqa.mp4"
         },
         {
             "time": "[0:02:00 - 0:03:00]",
@@ -2384,7 +2384,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_35_context.mp4"
+            "video_path": "./videos/sample_35_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -2404,7 +2404,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_35_context.mp4"
+            "video_path": "./videos/sample_35_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -2424,7 +2424,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_35_context.mp4"
+            "video_path": "./videos/sample_35_sqa.mp4"
         },
         {
             "time": "[0:06:00 - 0:07:00]",
@@ -2444,7 +2444,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_35_context.mp4"
+            "video_path": "./videos/sample_35_sqa.mp4"
         }
     ],
     [
@@ -2466,7 +2466,7 @@
                 }
             ],
             "video_categories": "tennis",
-            "video_path": "./videos/sample_24_context.mp4"
+            "video_path": "./videos/sample_24_sqa.mp4"
         },
         {
             "time": "[0:02:00 - 0:03:00]",
@@ -2486,7 +2486,7 @@
                 }
             ],
             "video_categories": "tennis",
-            "video_path": "./videos/sample_24_context.mp4"
+            "video_path": "./videos/sample_24_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -2506,7 +2506,7 @@
                 }
             ],
             "video_categories": "tennis",
-            "video_path": "./videos/sample_24_context.mp4"
+            "video_path": "./videos/sample_24_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -2526,7 +2526,7 @@
                 }
             ],
             "video_categories": "tennis",
-            "video_path": "./videos/sample_24_context.mp4"
+            "video_path": "./videos/sample_24_sqa.mp4"
         },
         {
             "time": "[0:06:00 - 0:07:00]",
@@ -2546,7 +2546,7 @@
                 }
             ],
             "video_categories": "tennis",
-            "video_path": "./videos/sample_24_context.mp4"
+            "video_path": "./videos/sample_24_sqa.mp4"
         }
     ],
     [
@@ -2568,7 +2568,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_3_context.mp4"
+            "video_path": "./videos/sample_3_sqa.mp4"
         },
         {
             "time": "[0:02:00 - 0:03:00]",
@@ -2588,7 +2588,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_3_context.mp4"
+            "video_path": "./videos/sample_3_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -2608,7 +2608,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_3_context.mp4"
+            "video_path": "./videos/sample_3_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -2628,7 +2628,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_3_context.mp4"
+            "video_path": "./videos/sample_3_sqa.mp4"
         },
         {
             "time": "[0:06:00 - 0:07:00]",
@@ -2648,7 +2648,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_3_context.mp4"
+            "video_path": "./videos/sample_3_sqa.mp4"
         }
     ],
     [
@@ -2670,7 +2670,7 @@
                 }
             ],
             "video_categories": "tennis",
-            "video_path": "./videos/sample_23_context.mp4"
+            "video_path": "./videos/sample_23_sqa.mp4"
         },
         {
             "time": "[0:02:00 - 0:03:00]",
@@ -2690,7 +2690,7 @@
                 }
             ],
             "video_categories": "tennis",
-            "video_path": "./videos/sample_23_context.mp4"
+            "video_path": "./videos/sample_23_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -2710,7 +2710,7 @@
                 }
             ],
             "video_categories": "tennis",
-            "video_path": "./videos/sample_23_context.mp4"
+            "video_path": "./videos/sample_23_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -2730,7 +2730,7 @@
                 }
             ],
             "video_categories": "tennis",
-            "video_path": "./videos/sample_23_context.mp4"
+            "video_path": "./videos/sample_23_sqa.mp4"
         },
         {
             "time": "[0:06:00 - 0:07:00]",
@@ -2750,7 +2750,7 @@
                 }
             ],
             "video_categories": "tennis",
-            "video_path": "./videos/sample_23_context.mp4"
+            "video_path": "./videos/sample_23_sqa.mp4"
         }
     ],
     [
@@ -2772,7 +2772,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_8_context.mp4"
+            "video_path": "./videos/sample_8_sqa.mp4"
         },
         {
             "time": "[0:02:00 - 0:03:00]",
@@ -2792,7 +2792,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_8_context.mp4"
+            "video_path": "./videos/sample_8_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -2812,7 +2812,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_8_context.mp4"
+            "video_path": "./videos/sample_8_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -2832,7 +2832,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_8_context.mp4"
+            "video_path": "./videos/sample_8_sqa.mp4"
         },
         {
             "time": "[0:06:00 - 0:07:00]",
@@ -2852,7 +2852,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_8_context.mp4"
+            "video_path": "./videos/sample_8_sqa.mp4"
         }
     ],
     [
@@ -2874,7 +2874,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_6_context.mp4"
+            "video_path": "./videos/sample_6_sqa.mp4"
         },
         {
             "time": "[0:02:00 - 0:03:00]",
@@ -2894,7 +2894,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_6_context.mp4"
+            "video_path": "./videos/sample_6_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -2914,7 +2914,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_6_context.mp4"
+            "video_path": "./videos/sample_6_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -2934,7 +2934,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_6_context.mp4"
+            "video_path": "./videos/sample_6_sqa.mp4"
         },
         {
             "time": "[0:06:00 - 0:07:00]",
@@ -2954,7 +2954,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_6_context.mp4"
+            "video_path": "./videos/sample_6_sqa.mp4"
         }
     ],
     [
@@ -2976,7 +2976,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_13_context.mp4"
+            "video_path": "./videos/sample_13_sqa.mp4"
         },
         {
             "time": "[0:02:00 - 0:03:00]",
@@ -2996,7 +2996,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_13_context.mp4"
+            "video_path": "./videos/sample_13_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -3016,7 +3016,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_13_context.mp4"
+            "video_path": "./videos/sample_13_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -3036,7 +3036,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_13_context.mp4"
+            "video_path": "./videos/sample_13_sqa.mp4"
         },
         {
             "time": "[0:06:00 - 0:07:00]",
@@ -3056,7 +3056,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_13_context.mp4"
+            "video_path": "./videos/sample_13_sqa.mp4"
         }
     ],
     [
@@ -3078,7 +3078,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_15_context.mp4"
+            "video_path": "./videos/sample_15_sqa.mp4"
         },
         {
             "time": "[0:02:00 - 0:03:00]",
@@ -3098,7 +3098,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_15_context.mp4"
+            "video_path": "./videos/sample_15_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -3118,7 +3118,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_15_context.mp4"
+            "video_path": "./videos/sample_15_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -3138,7 +3138,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_15_context.mp4"
+            "video_path": "./videos/sample_15_sqa.mp4"
         },
         {
             "time": "[0:06:00 - 0:07:00]",
@@ -3158,7 +3158,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_15_context.mp4"
+            "video_path": "./videos/sample_15_sqa.mp4"
         }
     ],
     [
@@ -3180,7 +3180,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_33_context.mp4"
+            "video_path": "./videos/sample_33_sqa.mp4"
         },
         {
             "time": "[0:02:00 - 0:03:00]",
@@ -3200,7 +3200,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_33_context.mp4"
+            "video_path": "./videos/sample_33_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -3220,7 +3220,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_33_context.mp4"
+            "video_path": "./videos/sample_33_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -3240,7 +3240,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_33_context.mp4"
+            "video_path": "./videos/sample_33_sqa.mp4"
         },
         {
             "time": "[0:06:00 - 0:07:00]",
@@ -3260,7 +3260,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_33_context.mp4"
+            "video_path": "./videos/sample_33_sqa.mp4"
         }
     ],
     [
@@ -3282,7 +3282,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_44_context.mp4"
+            "video_path": "./videos/sample_44_sqa.mp4"
         },
         {
             "time": "[0:02:00 - 0:03:00]",
@@ -3302,7 +3302,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_44_context.mp4"
+            "video_path": "./videos/sample_44_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -3322,7 +3322,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_44_context.mp4"
+            "video_path": "./videos/sample_44_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -3342,7 +3342,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_44_context.mp4"
+            "video_path": "./videos/sample_44_sqa.mp4"
         },
         {
             "time": "[0:06:00 - 0:07:00]",
@@ -3362,7 +3362,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_44_context.mp4"
+            "video_path": "./videos/sample_44_sqa.mp4"
         }
     ],
     [
@@ -3384,7 +3384,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_46_context.mp4"
+            "video_path": "./videos/sample_46_sqa.mp4"
         },
         {
             "time": "[0:02:00 - 0:03:00]",
@@ -3404,7 +3404,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_46_context.mp4"
+            "video_path": "./videos/sample_46_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -3424,7 +3424,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_46_context.mp4"
+            "video_path": "./videos/sample_46_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -3444,7 +3444,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_46_context.mp4"
+            "video_path": "./videos/sample_46_sqa.mp4"
         },
         {
             "time": "[0:06:00 - 0:07:00]",
@@ -3464,7 +3464,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_46_context.mp4"
+            "video_path": "./videos/sample_46_sqa.mp4"
         }
     ],
     [
@@ -3486,7 +3486,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_40_context.mp4"
+            "video_path": "./videos/sample_40_sqa.mp4"
         },
         {
             "time": "[0:02:00 - 0:03:00]",
@@ -3506,7 +3506,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_40_context.mp4"
+            "video_path": "./videos/sample_40_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -3526,7 +3526,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_40_context.mp4"
+            "video_path": "./videos/sample_40_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -3546,7 +3546,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_40_context.mp4"
+            "video_path": "./videos/sample_40_sqa.mp4"
         },
         {
             "time": "[0:06:00 - 0:07:00]",
@@ -3566,7 +3566,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_40_context.mp4"
+            "video_path": "./videos/sample_40_sqa.mp4"
         }
     ],
     [
@@ -3588,7 +3588,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_34_context.mp4"
+            "video_path": "./videos/sample_34_sqa.mp4"
         },
         {
             "time": "[0:02:00 - 0:03:00]",
@@ -3608,7 +3608,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_34_context.mp4"
+            "video_path": "./videos/sample_34_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -3628,7 +3628,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_34_context.mp4"
+            "video_path": "./videos/sample_34_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -3648,7 +3648,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_34_context.mp4"
+            "video_path": "./videos/sample_34_sqa.mp4"
         },
         {
             "time": "[0:06:00 - 0:07:00]",
@@ -3668,7 +3668,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_34_context.mp4"
+            "video_path": "./videos/sample_34_sqa.mp4"
         }
     ],
     [
@@ -3690,7 +3690,7 @@
                 }
             ],
             "video_categories": "tennis",
-            "video_path": "./videos/sample_26_context.mp4"
+            "video_path": "./videos/sample_26_sqa.mp4"
         },
         {
             "time": "[0:02:00 - 0:03:00]",
@@ -3710,7 +3710,7 @@
                 }
             ],
             "video_categories": "tennis",
-            "video_path": "./videos/sample_26_context.mp4"
+            "video_path": "./videos/sample_26_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -3730,7 +3730,7 @@
                 }
             ],
             "video_categories": "tennis",
-            "video_path": "./videos/sample_26_context.mp4"
+            "video_path": "./videos/sample_26_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -3750,7 +3750,7 @@
                 }
             ],
             "video_categories": "tennis",
-            "video_path": "./videos/sample_26_context.mp4"
+            "video_path": "./videos/sample_26_sqa.mp4"
         },
         {
             "time": "[0:06:00 - 0:07:00]",
@@ -3770,7 +3770,7 @@
                 }
             ],
             "video_categories": "tennis",
-            "video_path": "./videos/sample_26_context.mp4"
+            "video_path": "./videos/sample_26_sqa.mp4"
         }
     ],
     [
@@ -3792,7 +3792,7 @@
                 }
             ],
             "video_categories": "tennis",
-            "video_path": "./videos/sample_21_context.mp4"
+            "video_path": "./videos/sample_21_sqa.mp4"
         },
         {
             "time": "[0:02:00 - 0:03:00]",
@@ -3812,7 +3812,7 @@
                 }
             ],
             "video_categories": "tennis",
-            "video_path": "./videos/sample_21_context.mp4"
+            "video_path": "./videos/sample_21_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -3832,7 +3832,7 @@
                 }
             ],
             "video_categories": "tennis",
-            "video_path": "./videos/sample_21_context.mp4"
+            "video_path": "./videos/sample_21_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -3852,7 +3852,7 @@
                 }
             ],
             "video_categories": "tennis",
-            "video_path": "./videos/sample_21_context.mp4"
+            "video_path": "./videos/sample_21_sqa.mp4"
         },
         {
             "time": "[0:06:00 - 0:07:00]",
@@ -3872,7 +3872,7 @@
                 }
             ],
             "video_categories": "tennis",
-            "video_path": "./videos/sample_21_context.mp4"
+            "video_path": "./videos/sample_21_sqa.mp4"
         }
     ],
     [
@@ -3894,7 +3894,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_16_context.mp4"
+            "video_path": "./videos/sample_16_sqa.mp4"
         },
         {
             "time": "[0:02:00 - 0:03:00]",
@@ -3914,7 +3914,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_16_context.mp4"
+            "video_path": "./videos/sample_16_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -3934,7 +3934,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_16_context.mp4"
+            "video_path": "./videos/sample_16_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -3954,7 +3954,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_16_context.mp4"
+            "video_path": "./videos/sample_16_sqa.mp4"
         },
         {
             "time": "[0:06:00 - 0:07:00]",
@@ -3974,7 +3974,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_16_context.mp4"
+            "video_path": "./videos/sample_16_sqa.mp4"
         }
     ],
     [
@@ -4009,7 +4009,7 @@
                 }
             ],
             "video_categories": "magic_show",
-            "video_path": "./videos/sample_1_context.mp4"
+            "video_path": "./videos/sample_1_sqa.mp4"
         },
         {
             "time": "[0:04:00 - 0:05:00]",
@@ -4029,7 +4029,7 @@
                 }
             ],
             "video_categories": "magic_show",
-            "video_path": "./videos/sample_1_context.mp4"
+            "video_path": "./videos/sample_1_sqa.mp4"
         },
         {
             "time": "[0:05:00 - 0:06:00]",
@@ -4049,7 +4049,7 @@
                 }
             ],
             "video_categories": "magic_show",
-            "video_path": "./videos/sample_1_context.mp4"
+            "video_path": "./videos/sample_1_sqa.mp4"
         },
         {
             "time": "[0:09:00 - 0:10:00]",
@@ -4069,7 +4069,7 @@
                 }
             ],
             "video_categories": "magic_show",
-            "video_path": "./videos/sample_1_context.mp4"
+            "video_path": "./videos/sample_1_sqa.mp4"
         }
     ],
     [
@@ -4091,7 +4091,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_10_context.mp4"
+            "video_path": "./videos/sample_10_sqa.mp4"
         },
         {
             "time": "[0:02:00 - 0:03:00]",
@@ -4111,7 +4111,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_10_context.mp4"
+            "video_path": "./videos/sample_10_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -4131,7 +4131,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_10_context.mp4"
+            "video_path": "./videos/sample_10_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -4151,7 +4151,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_10_context.mp4"
+            "video_path": "./videos/sample_10_sqa.mp4"
         },
         {
             "time": "[0:06:00 - 0:07:00]",
@@ -4171,7 +4171,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_10_context.mp4"
+            "video_path": "./videos/sample_10_sqa.mp4"
         }
     ],
     [
@@ -4206,7 +4206,7 @@
                 }
             ],
             "video_categories": "football",
-            "video_path": "./videos/sample_2_context.mp4"
+            "video_path": "./videos/sample_2_sqa.mp4"
         },
         {
             "time": "[0:02:00 - 0:03:00]",
@@ -4226,7 +4226,7 @@
                 }
             ],
             "video_categories": "football",
-            "video_path": "./videos/sample_2_context.mp4"
+            "video_path": "./videos/sample_2_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -4246,7 +4246,7 @@
                 }
             ],
             "video_categories": "football",
-            "video_path": "./videos/sample_2_context.mp4"
+            "video_path": "./videos/sample_2_sqa.mp4"
         },
         {
             "time": "[0:06:00 - 0:07:00]",
@@ -4266,7 +4266,7 @@
                 }
             ],
             "video_categories": "football",
-            "video_path": "./videos/sample_2_context.mp4"
+            "video_path": "./videos/sample_2_sqa.mp4"
         }
     ],
     [
@@ -4288,7 +4288,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_47_context.mp4"
+            "video_path": "./videos/sample_47_sqa.mp4"
         },
         {
             "time": "[0:02:00 - 0:03:00]",
@@ -4308,7 +4308,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_47_context.mp4"
+            "video_path": "./videos/sample_47_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -4328,7 +4328,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_47_context.mp4"
+            "video_path": "./videos/sample_47_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -4348,7 +4348,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_47_context.mp4"
+            "video_path": "./videos/sample_47_sqa.mp4"
         },
         {
             "time": "[0:06:00 - 0:07:00]",
@@ -4368,7 +4368,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_47_context.mp4"
+            "video_path": "./videos/sample_47_sqa.mp4"
         }
     ],
     [
@@ -4390,7 +4390,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_20_context.mp4"
+            "video_path": "./videos/sample_20_sqa.mp4"
         },
         {
             "time": "[0:02:00 - 0:03:00]",
@@ -4410,7 +4410,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_20_context.mp4"
+            "video_path": "./videos/sample_20_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -4430,7 +4430,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_20_context.mp4"
+            "video_path": "./videos/sample_20_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -4450,7 +4450,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_20_context.mp4"
+            "video_path": "./videos/sample_20_sqa.mp4"
         },
         {
             "time": "[0:06:00 - 0:07:00]",
@@ -4470,7 +4470,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_20_context.mp4"
+            "video_path": "./videos/sample_20_sqa.mp4"
         }
     ],
     [
@@ -4492,7 +4492,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_11_context.mp4"
+            "video_path": "./videos/sample_11_sqa.mp4"
         },
         {
             "time": "[0:02:00 - 0:03:00]",
@@ -4512,7 +4512,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_11_context.mp4"
+            "video_path": "./videos/sample_11_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -4532,7 +4532,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_11_context.mp4"
+            "video_path": "./videos/sample_11_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -4552,7 +4552,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_11_context.mp4"
+            "video_path": "./videos/sample_11_sqa.mp4"
         },
         {
             "time": "[0:06:00 - 0:07:00]",
@@ -4572,7 +4572,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_11_context.mp4"
+            "video_path": "./videos/sample_11_sqa.mp4"
         }
     ],
     [
@@ -4594,7 +4594,7 @@
                 }
             ],
             "video_categories": "tennis",
-            "video_path": "./videos/sample_29_context.mp4"
+            "video_path": "./videos/sample_29_sqa.mp4"
         },
         {
             "time": "[0:02:00 - 0:03:00]",
@@ -4614,7 +4614,7 @@
                 }
             ],
             "video_categories": "tennis",
-            "video_path": "./videos/sample_29_context.mp4"
+            "video_path": "./videos/sample_29_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -4634,7 +4634,7 @@
                 }
             ],
             "video_categories": "tennis",
-            "video_path": "./videos/sample_29_context.mp4"
+            "video_path": "./videos/sample_29_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -4654,7 +4654,7 @@
                 }
             ],
             "video_categories": "tennis",
-            "video_path": "./videos/sample_29_context.mp4"
+            "video_path": "./videos/sample_29_sqa.mp4"
         },
         {
             "time": "[0:06:00 - 0:07:00]",
@@ -4674,7 +4674,7 @@
                 }
             ],
             "video_categories": "tennis",
-            "video_path": "./videos/sample_29_context.mp4"
+            "video_path": "./videos/sample_29_sqa.mp4"
         }
     ],
     [
@@ -4696,7 +4696,7 @@
                 }
             ],
             "video_categories": "tennis",
-            "video_path": "./videos/sample_30_context.mp4"
+            "video_path": "./videos/sample_30_sqa.mp4"
         },
         {
             "time": "[0:02:00 - 0:03:00]",
@@ -4716,7 +4716,7 @@
                 }
             ],
             "video_categories": "tennis",
-            "video_path": "./videos/sample_30_context.mp4"
+            "video_path": "./videos/sample_30_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -4736,7 +4736,7 @@
                 }
             ],
             "video_categories": "tennis",
-            "video_path": "./videos/sample_30_context.mp4"
+            "video_path": "./videos/sample_30_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -4756,7 +4756,7 @@
                 }
             ],
             "video_categories": "tennis",
-            "video_path": "./videos/sample_30_context.mp4"
+            "video_path": "./videos/sample_30_sqa.mp4"
         },
         {
             "time": "[0:06:00 - 0:07:00]",
@@ -4776,7 +4776,7 @@
                 }
             ],
             "video_categories": "tennis",
-            "video_path": "./videos/sample_30_context.mp4"
+            "video_path": "./videos/sample_30_sqa.mp4"
         }
     ],
     [
@@ -4798,7 +4798,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_37_context.mp4"
+            "video_path": "./videos/sample_37_sqa.mp4"
         },
         {
             "time": "[0:02:00 - 0:03:00]",
@@ -4818,7 +4818,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_37_context.mp4"
+            "video_path": "./videos/sample_37_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -4838,7 +4838,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_37_context.mp4"
+            "video_path": "./videos/sample_37_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -4858,7 +4858,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_37_context.mp4"
+            "video_path": "./videos/sample_37_sqa.mp4"
         },
         {
             "time": "[0:06:00 - 0:07:00]",
@@ -4878,7 +4878,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_37_context.mp4"
+            "video_path": "./videos/sample_37_sqa.mp4"
         }
     ],
     [
@@ -4900,7 +4900,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_7_context.mp4"
+            "video_path": "./videos/sample_7_sqa.mp4"
         },
         {
             "time": "[0:02:00 - 0:03:00]",
@@ -4920,7 +4920,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_7_context.mp4"
+            "video_path": "./videos/sample_7_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -4940,7 +4940,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_7_context.mp4"
+            "video_path": "./videos/sample_7_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -4960,7 +4960,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_7_context.mp4"
+            "video_path": "./videos/sample_7_sqa.mp4"
         },
         {
             "time": "[0:06:00 - 0:07:00]",
@@ -4980,7 +4980,7 @@
                 }
             ],
             "video_categories": "table_tennis",
-            "video_path": "./videos/sample_7_context.mp4"
+            "video_path": "./videos/sample_7_sqa.mp4"
         }
     ],
     [
@@ -5002,7 +5002,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_45_context.mp4"
+            "video_path": "./videos/sample_45_sqa.mp4"
         },
         {
             "time": "[0:02:00 - 0:03:00]",
@@ -5022,7 +5022,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_45_context.mp4"
+            "video_path": "./videos/sample_45_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -5042,7 +5042,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_45_context.mp4"
+            "video_path": "./videos/sample_45_sqa.mp4"
         },
         {
             "time": "[0:03:00 - 0:04:00]",
@@ -5062,7 +5062,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_45_context.mp4"
+            "video_path": "./videos/sample_45_sqa.mp4"
         },
         {
             "time": "[0:06:00 - 0:07:00]",
@@ -5082,7 +5082,7 @@
                 }
             ],
             "video_categories": "basketball",
-            "video_path": "./videos/sample_45_context.mp4"
+            "video_path": "./videos/sample_45_sqa.mp4"
         }
     ]
 ]

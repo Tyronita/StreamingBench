@@ -3,11 +3,10 @@ from PIL import Image
 from transformers import AutoConfig, AutoModel, AutoTokenizer
 from decord import VideoReader, cpu
 from accelerate import init_empty_weights, infer_auto_device_map, load_checkpoint_in_model, dispatch_model
+
 from model.modelclass import Model
-
-
 class MiniCPMV(Model):
-    def __init__(self, model_path='/data1/private/fz/streaming/huggingface_cache/MiniCPM-V'):
+    def __init__(self, model_path='openbmb/MiniCPM-V-2_6'):
         """
         Initialize the model by loading the pretrained MiniCPM-V model and tokenizer.
         """

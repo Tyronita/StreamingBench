@@ -7,24 +7,24 @@ from utils.video_execution import split_video
 
 from benchmark.Benchmark import Benchmark
 
-PROMPT_TEMPLATE_ACTIVE = '''You are an advanced image question-answering AI assistant. You have been provided with images and a question related to the images. Your task is to carefully analyze the images and provide the answer to the question. You need to carefully confirm whether the images content meet the conditions of the question, and then output the correct content.
+PROMPT_TEMPLATE_PROACTIVE = '''You are an advanced image question-answering AI assistant. You have been provided with images and a question related to the images. Your task is to carefully analyze the images and provide the answer to the question. You need to carefully confirm whether the images content meet the conditions of the question, and then output the correct content.
 
 Question: {}
 
 The answer is:
 '''
 
-class StreamingBenchActive(Benchmark):
+class StreamingBenchProactive(Benchmark):
     def __init__(self, data):
-        StreamingBenchActiveInit(data)
+        StreamingBenchProactiveInit(data)
 
     def eval(self, data, model):
-        StreamingBenchActiveEval(data, model)
+        StreamingBenchProactiveEval(data, model)
 
-def StreamingBenchActiveInit(data):
+def StreamingBenchProactiveInit(data):
     pass
 
-def StreamingBenchActiveEval(data, MODEL, output_path):
+def StreamingBenchProactiveEval(data, MODEL, output_path):
     for subset in tqdm.tqdm(data):
         for question in subset["questions"]:
             if MODEL.name() in question and question[MODEL.name()]['dialog_history'][-1]['content']:
@@ -43,16 +43,13 @@ def StreamingBenchActiveEval(data, MODEL, output_path):
             answered = False
             # Prepare input for the model
             query = f"{question['question']} Is it the right time to output \"{question['ground_truth_output']}\"? You can only answer yes or no."
-            inp = PROMPT_TEMPLATE_ACTIVE.format(query)
+            inp = PROMPT_TEMPLATE_PROACTIVE.format(query)
 
             current_time = start_time + 1
 
             while current_time <= max_time:
 
                 interval = 1
-
-                if current_time == 0:
-                    current_time += 1
 
                 clip_file = split_video(video_path, current_time)
 
@@ -71,7 +68,7 @@ def StreamingBenchActiveEval(data, MODEL, output_path):
                 })
 
                 if 'yes' in response.strip().lower():
-                    inp = PROMPT_TEMPLATE_ACTIVE.format(question['question'])
+                    inp = PROMPT_TEMPLATE_PROACTIVE.format(question['question'])
                     time_s = time.time()
                     response = get_model_response(MODEL, clip_file, inp)
                     time_e = time.time()

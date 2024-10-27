@@ -15,12 +15,12 @@ def main(args):
     if args.benchmark_name == "Streaming":
         from benchmark.StreamingBench import StreamingBench
         benchmark = StreamingBench(data)
-    if args.benchmark_name == "StreamingActive":
-        from benchmark.StreamingBenchActive import StreamingBenchActive
-        benchmark = StreamingBenchActive(data)
-    if args.benchmark_name == "StreamingContext":
-        from benchmark.StreamingBenchContext import StreamingBenchContext
-        benchmark = StreamingBenchContext(data)
+    if args.benchmark_name == "StreamingProctive":
+        from benchmark.StreamingBenchProactive import StreamingBenchProactive
+        benchmark = StreamingBenchProactive(data)
+    if args.benchmark_name == "StreamingSQA":
+        from benchmark.StreamingBenchSQA import StreamingBenchSQA
+        benchmark = StreamingBenchSQA(data)
 
     ##########################
 
@@ -28,10 +28,7 @@ def main(args):
 
     model = Model()
  
-    if args.model_name == "GPT4o":
-        from model.GPT4o import GPT4o
-        model = GPT4o()
-    elif args.model_name == "MiniCPM-V":
+    if args.model_name == "MiniCPM-V":
         from model.MiniCPMV import MiniCPMV
         model = MiniCPMV()
 

@@ -1,7 +1,5 @@
 import os
 from moviepy.editor import VideoFileClip
-import cv2
-import base64
 
 def split_video(video_file, timestamp):
     """
@@ -29,29 +27,4 @@ def split_video(video_file, timestamp):
     video.close()
     print(f"Video: {output_file} splitting completed.")
     return output_file
-
-def video_to_images(video_path, frame_num, timestamp):
-    video = cv2.VideoCapture(video_path)
-    
-    total_frames = int(video.get(cv2.CAP_PROP_FRAME_COUNT))
-
-    max_frames_to_extract = min(frame_num, int(timestamp))
-
-    img_list = []
-
-    for i in range(max_frames_to_extract):
-        # 均匀计算要提取的帧的位置
-        frame_index = int(i * (total_frames / max_frames_to_extract))
-        video.set(cv2.CAP_PROP_POS_FRAMES, frame_index)
-
-        success, img = video.read()
-        if not success:
-            break
-
-        _, buffer = cv2.imencode(".jpg", img)
-        img_list.append(base64.b64encode(buffer).decode("utf-8"))
-    
-    video.release()
-    print(len(img_list))
-    return img_list
     

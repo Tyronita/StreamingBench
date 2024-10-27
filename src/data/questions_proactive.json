@@ -12,7 +12,7 @@
             }
         ],
         "video_categories": "basketball",
-        "video_path": "./videos/sample_17_active.mp4"
+        "video_path": "./videos/sample_17_proactive.mp4"
     },
     {
         "time": "[0:02:54 - 0:03:24]",
@@ -27,7 +27,7 @@
             }
         ],
         "video_categories": "basketball",
-        "video_path": "./videos/sample_17_active.mp4"
+        "video_path": "./videos/sample_17_proactive.mp4"
     },
     {
         "time": "[0:05:48 - 0:06:18]",
@@ -42,7 +42,7 @@
             }
         ],
         "video_categories": "basketball",
-        "video_path": "./videos/sample_17_active.mp4"
+        "video_path": "./videos/sample_17_proactive.mp4"
     },
     {
         "time": "[0:08:42 - 0:09:12]",
@@ -57,7 +57,7 @@
             }
         ],
         "video_categories": "basketball",
-        "video_path": "./videos/sample_17_active.mp4"
+        "video_path": "./videos/sample_17_proactive.mp4"
     },
     {
         "time": "[0:11:36 - 0:12:06]",
@@ -72,7 +72,7 @@
             }
         ],
         "video_categories": "basketball",
-        "video_path": "./videos/sample_17_active.mp4"
+        "video_path": "./videos/sample_17_proactive.mp4"
     },
     {
         "time": "[0:00:00 - 0:00:10]",
@@ -87,7 +87,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_32_active.mp4"
+        "video_path": "./videos/sample_32_proactive.mp4"
     },
     {
         "time": "[0:02:36 - 0:02:46]",
@@ -102,7 +102,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_32_active.mp4"
+        "video_path": "./videos/sample_32_proactive.mp4"
     },
     {
         "time": "[0:05:12 - 0:05:22]",
@@ -117,7 +117,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_32_active.mp4"
+        "video_path": "./videos/sample_32_proactive.mp4"
     },
     {
         "time": "[0:07:48 - 0:07:58]",
@@ -132,7 +132,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_32_active.mp4"
+        "video_path": "./videos/sample_32_proactive.mp4"
     },
     {
         "time": "[0:10:24 - 0:10:34]",
@@ -147,7 +147,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_32_active.mp4"
+        "video_path": "./videos/sample_32_proactive.mp4"
     },
     {
         "time": "[0:00:00 - 0:00:10]",
@@ -162,7 +162,7 @@
             }
         ],
         "video_categories": "football",
-        "video_path": "./videos/sample_42_active.mp4"
+        "video_path": "./videos/sample_42_proactive.mp4"
     },
     {
         "time": "[0:01:24 - 0:01:34]",
@@ -177,7 +177,7 @@
             }
         ],
         "video_categories": "football",
-        "video_path": "./videos/sample_42_active.mp4"
+        "video_path": "./videos/sample_42_proactive.mp4"
     },
     {
         "time": "[0:02:48 - 0:02:58]",
@@ -192,7 +192,7 @@
             }
         ],
         "video_categories": "football",
-        "video_path": "./videos/sample_42_active.mp4"
+        "video_path": "./videos/sample_42_proactive.mp4"
     },
     {
         "time": "[0:04:12 - 0:04:22]",
@@ -207,7 +207,7 @@
             }
         ],
         "video_categories": "football",
-        "video_path": "./videos/sample_42_active.mp4"
+        "video_path": "./videos/sample_42_proactive.mp4"
     },
     {
         "time": "[0:05:36 - 0:05:46]",
@@ -222,7 +222,7 @@
             }
         ],
         "video_categories": "football",
-        "video_path": "./videos/sample_42_active.mp4"
+        "video_path": "./videos/sample_42_proactive.mp4"
     },
     {
         "time": "[0:00:00 - 0:00:30]",
@@ -237,7 +237,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_49_active.mp4"
+        "video_path": "./videos/sample_49_proactive.mp4"
     },
     {
         "time": "[0:02:05 - 0:02:35]",
@@ -252,7 +252,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_49_active.mp4"
+        "video_path": "./videos/sample_49_proactive.mp4"
     },
     {
         "time": "[0:04:10 - 0:04:40]",
@@ -267,7 +267,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_49_active.mp4"
+        "video_path": "./videos/sample_49_proactive.mp4"
     },
     {
         "time": "[0:06:15 - 0:06:45]",
@@ -282,7 +282,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_49_active.mp4"
+        "video_path": "./videos/sample_49_proactive.mp4"
     },
     {
         "time": "[0:08:20 - 0:08:50]",
@@ -297,7 +297,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_49_active.mp4"
+        "video_path": "./videos/sample_49_proactive.mp4"
     },
     {
         "time": "[0:00:00 - 0:00:30]",
@@ -312,7 +312,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_48_active.mp4"
+        "video_path": "./videos/sample_48_proactive.mp4"
     },
     {
         "time": "[0:02:23 - 0:02:53]",
@@ -327,7 +327,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_48_active.mp4"
+        "video_path": "./videos/sample_48_proactive.mp4"
     },
     {
         "time": "[0:04:46 - 0:05:16]",
@@ -342,7 +342,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_48_active.mp4"
+        "video_path": "./videos/sample_48_proactive.mp4"
     },
     {
         "time": "[0:07:09 - 0:07:39]",
@@ -357,7 +357,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_48_active.mp4"
+        "video_path": "./videos/sample_48_proactive.mp4"
     },
     {
         "time": "[0:09:32 - 0:10:02]",
@@ -372,7 +372,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_48_active.mp4"
+        "video_path": "./videos/sample_48_proactive.mp4"
     },
     {
         "time": "[0:00:00 - 0:00:10]",
@@ -387,7 +387,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_38_active.mp4"
+        "video_path": "./videos/sample_38_proactive.mp4"
     },
     {
         "time": "[0:00:43 - 0:00:53]",
@@ -402,7 +402,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_38_active.mp4"
+        "video_path": "./videos/sample_38_proactive.mp4"
     },
     {
         "time": "[0:01:26 - 0:01:36]",
@@ -417,7 +417,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_38_active.mp4"
+        "video_path": "./videos/sample_38_proactive.mp4"
     },
     {
         "time": "[0:02:09 - 0:02:19]",
@@ -432,7 +432,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_38_active.mp4"
+        "video_path": "./videos/sample_38_proactive.mp4"
     },
     {
         "time": "[0:02:52 - 0:03:02]",
@@ -447,7 +447,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_38_active.mp4"
+        "video_path": "./videos/sample_38_proactive.mp4"
     },
     {
         "time": "[0:00:00 - 0:00:10]",
@@ -462,7 +462,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_28_active.mp4"
+        "video_path": "./videos/sample_28_proactive.mp4"
     },
     {
         "time": "[0:01:59 - 0:02:09]",
@@ -477,7 +477,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_28_active.mp4"
+        "video_path": "./videos/sample_28_proactive.mp4"
     },
     {
         "time": "[0:03:58 - 0:04:08]",
@@ -492,7 +492,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_28_active.mp4"
+        "video_path": "./videos/sample_28_proactive.mp4"
     },
     {
         "time": "[0:05:57 - 0:06:07]",
@@ -507,7 +507,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_28_active.mp4"
+        "video_path": "./videos/sample_28_proactive.mp4"
     },
     {
         "time": "[0:07:56 - 0:08:06]",
@@ -522,7 +522,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_28_active.mp4"
+        "video_path": "./videos/sample_28_proactive.mp4"
     },
     {
         "time": "[0:00:00 - 0:00:10]",
@@ -537,7 +537,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_36_active.mp4"
+        "video_path": "./videos/sample_36_proactive.mp4"
     },
     {
         "time": "[0:01:00 - 0:01:10]",
@@ -552,7 +552,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_36_active.mp4"
+        "video_path": "./videos/sample_36_proactive.mp4"
     },
     {
         "time": "[0:02:00 - 0:02:10]",
@@ -567,7 +567,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_36_active.mp4"
+        "video_path": "./videos/sample_36_proactive.mp4"
     },
     {
         "time": "[0:03:00 - 0:03:10]",
@@ -582,7 +582,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_36_active.mp4"
+        "video_path": "./videos/sample_36_proactive.mp4"
     },
     {
         "time": "[0:04:00 - 0:04:10]",
@@ -597,7 +597,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_36_active.mp4"
+        "video_path": "./videos/sample_36_proactive.mp4"
     },
     {
         "time": "[0:00:00 - 0:00:30]",
@@ -612,7 +612,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_50_active.mp4"
+        "video_path": "./videos/sample_50_proactive.mp4"
     },
     {
         "time": "[0:02:10 - 0:02:40]",
@@ -627,7 +627,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_50_active.mp4"
+        "video_path": "./videos/sample_50_proactive.mp4"
     },
     {
         "time": "[0:04:20 - 0:04:50]",
@@ -642,7 +642,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_50_active.mp4"
+        "video_path": "./videos/sample_50_proactive.mp4"
     },
     {
         "time": "[0:06:30 - 0:07:00]",
@@ -657,7 +657,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_50_active.mp4"
+        "video_path": "./videos/sample_50_proactive.mp4"
     },
     {
         "time": "[0:08:40 - 0:09:10]",
@@ -672,7 +672,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_50_active.mp4"
+        "video_path": "./videos/sample_50_proactive.mp4"
     },
     {
         "time": "[0:00:00 - 0:00:10]",
@@ -687,7 +687,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_27_active.mp4"
+        "video_path": "./videos/sample_27_proactive.mp4"
     },
     {
         "time": "[0:02:30 - 0:02:40]",
@@ -702,7 +702,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_27_active.mp4"
+        "video_path": "./videos/sample_27_proactive.mp4"
     },
     {
         "time": "[0:05:00 - 0:05:10]",
@@ -717,7 +717,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_27_active.mp4"
+        "video_path": "./videos/sample_27_proactive.mp4"
     },
     {
         "time": "[0:07:30 - 0:07:40]",
@@ -732,7 +732,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_27_active.mp4"
+        "video_path": "./videos/sample_27_proactive.mp4"
     },
     {
         "time": "[0:10:00 - 0:10:10]",
@@ -747,7 +747,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_27_active.mp4"
+        "video_path": "./videos/sample_27_proactive.mp4"
     },
     {
         "time": "[0:00:00 - 0:00:10]",
@@ -762,7 +762,7 @@
             }
         ],
         "video_categories": "football",
-        "video_path": "./videos/sample_43_active.mp4"
+        "video_path": "./videos/sample_43_proactive.mp4"
     },
     {
         "time": "[0:01:23 - 0:01:33]",
@@ -777,7 +777,7 @@
             }
         ],
         "video_categories": "football",
-        "video_path": "./videos/sample_43_active.mp4"
+        "video_path": "./videos/sample_43_proactive.mp4"
     },
     {
         "time": "[0:02:46 - 0:02:56]",
@@ -792,7 +792,7 @@
             }
         ],
         "video_categories": "football",
-        "video_path": "./videos/sample_43_active.mp4"
+        "video_path": "./videos/sample_43_proactive.mp4"
     },
     {
         "time": "[0:04:09 - 0:04:19]",
@@ -807,7 +807,7 @@
             }
         ],
         "video_categories": "football",
-        "video_path": "./videos/sample_43_active.mp4"
+        "video_path": "./videos/sample_43_proactive.mp4"
     },
     {
         "time": "[0:05:32 - 0:05:42]",
@@ -822,7 +822,7 @@
             }
         ],
         "video_categories": "football",
-        "video_path": "./videos/sample_43_active.mp4"
+        "video_path": "./videos/sample_43_proactive.mp4"
     },
     {
         "time": "[0:00:00 - 0:00:20]",
@@ -837,7 +837,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_4_active.mp4"
+        "video_path": "./videos/sample_4_proactive.mp4"
     },
     {
         "time": "[0:02:24 - 0:02:44]",
@@ -852,7 +852,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_4_active.mp4"
+        "video_path": "./videos/sample_4_proactive.mp4"
     },
     {
         "time": "[0:04:48 - 0:05:08]",
@@ -867,7 +867,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_4_active.mp4"
+        "video_path": "./videos/sample_4_proactive.mp4"
     },
     {
         "time": "[0:07:12 - 0:07:32]",
@@ -882,7 +882,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_4_active.mp4"
+        "video_path": "./videos/sample_4_proactive.mp4"
     },
     {
         "time": "[0:09:36 - 0:09:56]",
@@ -897,7 +897,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_4_active.mp4"
+        "video_path": "./videos/sample_4_proactive.mp4"
     },
     {
         "time": "[0:00:00 - 0:00:30]",
@@ -912,7 +912,7 @@
             }
         ],
         "video_categories": "tennis",
-        "video_path": "./videos/sample_19_active.mp4"
+        "video_path": "./videos/sample_19_proactive.mp4"
     },
     {
         "time": "[0:01:38 - 0:02:08]",
@@ -927,7 +927,7 @@
             }
         ],
         "video_categories": "tennis",
-        "video_path": "./videos/sample_19_active.mp4"
+        "video_path": "./videos/sample_19_proactive.mp4"
     },
     {
         "time": "[0:03:16 - 0:03:46]",
@@ -942,7 +942,7 @@
             }
         ],
         "video_categories": "tennis",
-        "video_path": "./videos/sample_19_active.mp4"
+        "video_path": "./videos/sample_19_proactive.mp4"
     },
     {
         "time": "[0:04:54 - 0:05:24]",
@@ -957,7 +957,7 @@
             }
         ],
         "video_categories": "tennis",
-        "video_path": "./videos/sample_19_active.mp4"
+        "video_path": "./videos/sample_19_proactive.mp4"
     },
     {
         "time": "[0:06:32 - 0:07:02]",
@@ -972,7 +972,7 @@
             }
         ],
         "video_categories": "tennis",
-        "video_path": "./videos/sample_19_active.mp4"
+        "video_path": "./videos/sample_19_proactive.mp4"
     },
     {
         "time": "[0:00:00 - 0:00:30]",
@@ -987,7 +987,7 @@
             }
         ],
         "video_categories": "tennis",
-        "video_path": "./videos/sample_22_active.mp4"
+        "video_path": "./videos/sample_22_proactive.mp4"
     },
     {
         "time": "[0:01:44 - 0:02:14]",
@@ -1002,7 +1002,7 @@
             }
         ],
         "video_categories": "tennis",
-        "video_path": "./videos/sample_22_active.mp4"
+        "video_path": "./videos/sample_22_proactive.mp4"
     },
     {
         "time": "[0:03:28 - 0:03:58]",
@@ -1017,7 +1017,7 @@
             }
         ],
         "video_categories": "tennis",
-        "video_path": "./videos/sample_22_active.mp4"
+        "video_path": "./videos/sample_22_proactive.mp4"
     },
     {
         "time": "[0:05:12 - 0:05:42]",
@@ -1032,7 +1032,7 @@
             }
         ],
         "video_categories": "tennis",
-        "video_path": "./videos/sample_22_active.mp4"
+        "video_path": "./videos/sample_22_proactive.mp4"
     },
     {
         "time": "[0:06:56 - 0:07:26]",
@@ -1047,7 +1047,7 @@
             }
         ],
         "video_categories": "tennis",
-        "video_path": "./videos/sample_22_active.mp4"
+        "video_path": "./videos/sample_22_proactive.mp4"
     },
     {
         "time": "[0:00:00 - 0:00:30]",
@@ -1062,7 +1062,7 @@
             }
         ],
         "video_categories": "tennis",
-        "video_path": "./videos/sample_18_active.mp4"
+        "video_path": "./videos/sample_18_proactive.mp4"
     },
     {
         "time": "[0:02:26 - 0:02:56]",
@@ -1077,7 +1077,7 @@
             }
         ],
         "video_categories": "tennis",
-        "video_path": "./videos/sample_18_active.mp4"
+        "video_path": "./videos/sample_18_proactive.mp4"
     },
     {
         "time": "[0:04:52 - 0:05:22]",
@@ -1092,7 +1092,7 @@
             }
         ],
         "video_categories": "tennis",
-        "video_path": "./videos/sample_18_active.mp4"
+        "video_path": "./videos/sample_18_proactive.mp4"
     },
     {
         "time": "[0:07:18 - 0:07:48]",
@@ -1107,7 +1107,7 @@
             }
         ],
         "video_categories": "tennis",
-        "video_path": "./videos/sample_18_active.mp4"
+        "video_path": "./videos/sample_18_proactive.mp4"
     },
     {
         "time": "[0:09:44 - 0:10:14]",
@@ -1122,7 +1122,7 @@
             }
         ],
         "video_categories": "tennis",
-        "video_path": "./videos/sample_18_active.mp4"
+        "video_path": "./videos/sample_18_proactive.mp4"
     },
     {
         "time": "[0:00:00 - 0:00:20]",
@@ -1137,7 +1137,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_9_active.mp4"
+        "video_path": "./videos/sample_9_proactive.mp4"
     },
     {
         "time": "[0:02:41 - 0:03:01]",
@@ -1152,7 +1152,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_9_active.mp4"
+        "video_path": "./videos/sample_9_proactive.mp4"
     },
     {
         "time": "[0:05:22 - 0:05:42]",
@@ -1167,7 +1167,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_9_active.mp4"
+        "video_path": "./videos/sample_9_proactive.mp4"
     },
     {
         "time": "[0:08:03 - 0:08:23]",
@@ -1182,7 +1182,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_9_active.mp4"
+        "video_path": "./videos/sample_9_proactive.mp4"
     },
     {
         "time": "[0:10:44 - 0:11:04]",
@@ -1197,7 +1197,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_9_active.mp4"
+        "video_path": "./videos/sample_9_proactive.mp4"
     },
     {
         "time": "[0:00:00 - 0:00:30]",
@@ -1212,7 +1212,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_25_active.mp4"
+        "video_path": "./videos/sample_25_proactive.mp4"
     },
     {
         "time": "[0:03:20 - 0:03:50]",
@@ -1227,7 +1227,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_25_active.mp4"
+        "video_path": "./videos/sample_25_proactive.mp4"
     },
     {
         "time": "[0:06:40 - 0:07:10]",
@@ -1242,7 +1242,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_25_active.mp4"
+        "video_path": "./videos/sample_25_proactive.mp4"
     },
     {
         "time": "[0:10:00 - 0:10:30]",
@@ -1257,7 +1257,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_25_active.mp4"
+        "video_path": "./videos/sample_25_proactive.mp4"
     },
     {
         "time": "[0:13:20 - 0:13:50]",
@@ -1272,7 +1272,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_25_active.mp4"
+        "video_path": "./videos/sample_25_proactive.mp4"
     },
     {
         "time": "[0:00:00 - 0:00:10]",
@@ -1287,7 +1287,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_39_active.mp4"
+        "video_path": "./videos/sample_39_proactive.mp4"
     },
     {
         "time": "[0:01:16 - 0:01:26]",
@@ -1302,7 +1302,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_39_active.mp4"
+        "video_path": "./videos/sample_39_proactive.mp4"
     },
     {
         "time": "[0:02:32 - 0:02:42]",
@@ -1317,7 +1317,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_39_active.mp4"
+        "video_path": "./videos/sample_39_proactive.mp4"
     },
     {
         "time": "[0:03:48 - 0:03:58]",
@@ -1332,7 +1332,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_39_active.mp4"
+        "video_path": "./videos/sample_39_proactive.mp4"
     },
     {
         "time": "[0:05:04 - 0:05:14]",
@@ -1347,7 +1347,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_39_active.mp4"
+        "video_path": "./videos/sample_39_proactive.mp4"
     },
     {
         "time": "[0:00:00 - 0:00:20]",
@@ -1362,7 +1362,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_12_active.mp4"
+        "video_path": "./videos/sample_12_proactive.mp4"
     },
     {
         "time": "[0:02:41 - 0:03:01]",
@@ -1377,7 +1377,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_12_active.mp4"
+        "video_path": "./videos/sample_12_proactive.mp4"
     },
     {
         "time": "[0:05:22 - 0:05:42]",
@@ -1392,7 +1392,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_12_active.mp4"
+        "video_path": "./videos/sample_12_proactive.mp4"
     },
     {
         "time": "[0:08:03 - 0:08:23]",
@@ -1407,7 +1407,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_12_active.mp4"
+        "video_path": "./videos/sample_12_proactive.mp4"
     },
     {
         "time": "[0:10:44 - 0:11:04]",
@@ -1422,7 +1422,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_12_active.mp4"
+        "video_path": "./videos/sample_12_proactive.mp4"
     },
     {
         "time": "[0:00:00 - 0:00:20]",
@@ -1437,7 +1437,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_5_active.mp4"
+        "video_path": "./videos/sample_5_proactive.mp4"
     },
     {
         "time": "[0:02:47 - 0:03:07]",
@@ -1452,7 +1452,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_5_active.mp4"
+        "video_path": "./videos/sample_5_proactive.mp4"
     },
     {
         "time": "[0:05:34 - 0:05:54]",
@@ -1467,7 +1467,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_5_active.mp4"
+        "video_path": "./videos/sample_5_proactive.mp4"
     },
     {
         "time": "[0:08:21 - 0:08:41]",
@@ -1482,7 +1482,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_5_active.mp4"
+        "video_path": "./videos/sample_5_proactive.mp4"
     },
     {
         "time": "[0:11:08 - 0:11:28]",
@@ -1497,7 +1497,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_5_active.mp4"
+        "video_path": "./videos/sample_5_proactive.mp4"
     },
     {
         "time": "[0:00:00 - 0:00:10]",
@@ -1512,7 +1512,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_41_active.mp4"
+        "video_path": "./videos/sample_41_proactive.mp4"
     },
     {
         "time": "[0:00:55 - 0:01:05]",
@@ -1527,7 +1527,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_41_active.mp4"
+        "video_path": "./videos/sample_41_proactive.mp4"
     },
     {
         "time": "[0:01:50 - 0:02:00]",
@@ -1542,7 +1542,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_41_active.mp4"
+        "video_path": "./videos/sample_41_proactive.mp4"
     },
     {
         "time": "[0:02:45 - 0:02:55]",
@@ -1557,7 +1557,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_41_active.mp4"
+        "video_path": "./videos/sample_41_proactive.mp4"
     },
     {
         "time": "[0:03:40 - 0:03:50]",
@@ -1572,7 +1572,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_41_active.mp4"
+        "video_path": "./videos/sample_41_proactive.mp4"
     },
     {
         "time": "[0:00:00 - 0:00:10]",
@@ -1587,7 +1587,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_31_active.mp4"
+        "video_path": "./videos/sample_31_proactive.mp4"
     },
     {
         "time": "[0:01:27 - 0:01:37]",
@@ -1602,7 +1602,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_31_active.mp4"
+        "video_path": "./videos/sample_31_proactive.mp4"
     },
     {
         "time": "[0:02:54 - 0:03:04]",
@@ -1617,7 +1617,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_31_active.mp4"
+        "video_path": "./videos/sample_31_proactive.mp4"
     },
     {
         "time": "[0:04:21 - 0:04:31]",
@@ -1632,7 +1632,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_31_active.mp4"
+        "video_path": "./videos/sample_31_proactive.mp4"
     },
     {
         "time": "[0:05:48 - 0:05:58]",
@@ -1647,7 +1647,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_31_active.mp4"
+        "video_path": "./videos/sample_31_proactive.mp4"
     },
     {
         "time": "[0:00:00 - 0:00:30]",
@@ -1662,7 +1662,7 @@
             }
         ],
         "video_categories": "basketball",
-        "video_path": "./videos/sample_14_active.mp4"
+        "video_path": "./videos/sample_14_proactive.mp4"
     },
     {
         "time": "[0:00:37 - 0:01:07]",
@@ -1677,7 +1677,7 @@
             }
         ],
         "video_categories": "basketball",
-        "video_path": "./videos/sample_14_active.mp4"
+        "video_path": "./videos/sample_14_proactive.mp4"
     },
     {
         "time": "[0:01:14 - 0:01:44]",
@@ -1692,7 +1692,7 @@
             }
         ],
         "video_categories": "basketball",
-        "video_path": "./videos/sample_14_active.mp4"
+        "video_path": "./videos/sample_14_proactive.mp4"
     },
     {
         "time": "[0:01:51 - 0:02:21]",
@@ -1707,7 +1707,7 @@
             }
         ],
         "video_categories": "basketball",
-        "video_path": "./videos/sample_14_active.mp4"
+        "video_path": "./videos/sample_14_proactive.mp4"
     },
     {
         "time": "[0:02:28 - 0:02:58]",
@@ -1722,7 +1722,7 @@
             }
         ],
         "video_categories": "basketball",
-        "video_path": "./videos/sample_14_active.mp4"
+        "video_path": "./videos/sample_14_proactive.mp4"
     },
     {
         "time": "[0:00:00 - 0:00:10]",
@@ -1737,7 +1737,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_35_active.mp4"
+        "video_path": "./videos/sample_35_proactive.mp4"
     },
     {
         "time": "[0:02:52 - 0:03:02]",
@@ -1752,7 +1752,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_35_active.mp4"
+        "video_path": "./videos/sample_35_proactive.mp4"
     },
     {
         "time": "[0:05:44 - 0:05:54]",
@@ -1767,7 +1767,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_35_active.mp4"
+        "video_path": "./videos/sample_35_proactive.mp4"
     },
     {
         "time": "[0:08:36 - 0:08:46]",
@@ -1782,7 +1782,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_35_active.mp4"
+        "video_path": "./videos/sample_35_proactive.mp4"
     },
     {
         "time": "[0:11:28 - 0:11:38]",
@@ -1797,7 +1797,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_35_active.mp4"
+        "video_path": "./videos/sample_35_proactive.mp4"
     },
     {
         "time": "[0:00:00 - 0:00:30]",
@@ -1812,7 +1812,7 @@
             }
         ],
         "video_categories": "tennis",
-        "video_path": "./videos/sample_24_active.mp4"
+        "video_path": "./videos/sample_24_proactive.mp4"
     },
     {
         "time": "[0:02:24 - 0:02:54]",
@@ -1827,7 +1827,7 @@
             }
         ],
         "video_categories": "tennis",
-        "video_path": "./videos/sample_24_active.mp4"
+        "video_path": "./videos/sample_24_proactive.mp4"
     },
     {
         "time": "[0:04:48 - 0:05:18]",
@@ -1842,7 +1842,7 @@
             }
         ],
         "video_categories": "tennis",
-        "video_path": "./videos/sample_24_active.mp4"
+        "video_path": "./videos/sample_24_proactive.mp4"
     },
     {
         "time": "[0:07:12 - 0:07:42]",
@@ -1857,7 +1857,7 @@
             }
         ],
         "video_categories": "tennis",
-        "video_path": "./videos/sample_24_active.mp4"
+        "video_path": "./videos/sample_24_proactive.mp4"
     },
     {
         "time": "[0:09:36 - 0:10:06]",
@@ -1872,7 +1872,7 @@
             }
         ],
         "video_categories": "tennis",
-        "video_path": "./videos/sample_24_active.mp4"
+        "video_path": "./videos/sample_24_proactive.mp4"
     },
     {
         "time": "[0:00:00 - 0:00:20]",
@@ -1887,7 +1887,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_3_active.mp4"
+        "video_path": "./videos/sample_3_proactive.mp4"
     },
     {
         "time": "[0:01:41 - 0:02:01]",
@@ -1902,7 +1902,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_3_active.mp4"
+        "video_path": "./videos/sample_3_proactive.mp4"
     },
     {
         "time": "[0:03:22 - 0:03:42]",
@@ -1917,7 +1917,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_3_active.mp4"
+        "video_path": "./videos/sample_3_proactive.mp4"
     },
     {
         "time": "[0:05:03 - 0:05:23]",
@@ -1932,7 +1932,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_3_active.mp4"
+        "video_path": "./videos/sample_3_proactive.mp4"
     },
     {
         "time": "[0:06:44 - 0:07:04]",
@@ -1947,7 +1947,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_3_active.mp4"
+        "video_path": "./videos/sample_3_proactive.mp4"
     },
     {
         "time": "[0:00:00 - 0:00:30]",
@@ -1962,7 +1962,7 @@
             }
         ],
         "video_categories": "tennis",
-        "video_path": "./videos/sample_23_active.mp4"
+        "video_path": "./videos/sample_23_proactive.mp4"
     },
     {
         "time": "[0:01:37 - 0:02:07]",
@@ -1977,7 +1977,7 @@
             }
         ],
         "video_categories": "tennis",
-        "video_path": "./videos/sample_23_active.mp4"
+        "video_path": "./videos/sample_23_proactive.mp4"
     },
     {
         "time": "[0:03:14 - 0:03:44]",
@@ -1992,7 +1992,7 @@
             }
         ],
         "video_categories": "tennis",
-        "video_path": "./videos/sample_23_active.mp4"
+        "video_path": "./videos/sample_23_proactive.mp4"
     },
     {
         "time": "[0:04:51 - 0:05:21]",
@@ -2007,7 +2007,7 @@
             }
         ],
         "video_categories": "tennis",
-        "video_path": "./videos/sample_23_active.mp4"
+        "video_path": "./videos/sample_23_proactive.mp4"
     },
     {
         "time": "[0:06:28 - 0:06:58]",
@@ -2022,7 +2022,7 @@
             }
         ],
         "video_categories": "tennis",
-        "video_path": "./videos/sample_23_active.mp4"
+        "video_path": "./videos/sample_23_proactive.mp4"
     },
     {
         "time": "[0:00:00 - 0:00:20]",
@@ -2037,7 +2037,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_8_active.mp4"
+        "video_path": "./videos/sample_8_proactive.mp4"
     },
     {
         "time": "[0:02:24 - 0:02:44]",
@@ -2052,7 +2052,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_8_active.mp4"
+        "video_path": "./videos/sample_8_proactive.mp4"
     },
     {
         "time": "[0:04:48 - 0:05:08]",
@@ -2067,7 +2067,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_8_active.mp4"
+        "video_path": "./videos/sample_8_proactive.mp4"
     },
     {
         "time": "[0:07:12 - 0:07:32]",
@@ -2082,7 +2082,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_8_active.mp4"
+        "video_path": "./videos/sample_8_proactive.mp4"
     },
     {
         "time": "[0:09:36 - 0:09:56]",
@@ -2097,7 +2097,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_8_active.mp4"
+        "video_path": "./videos/sample_8_proactive.mp4"
     },
     {
         "time": "[0:00:00 - 0:00:20]",
@@ -2112,7 +2112,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_6_active.mp4"
+        "video_path": "./videos/sample_6_proactive.mp4"
     },
     {
         "time": "[0:02:46 - 0:03:06]",
@@ -2127,7 +2127,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_6_active.mp4"
+        "video_path": "./videos/sample_6_proactive.mp4"
     },
     {
         "time": "[0:05:32 - 0:05:52]",
@@ -2142,7 +2142,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_6_active.mp4"
+        "video_path": "./videos/sample_6_proactive.mp4"
     },
     {
         "time": "[0:08:18 - 0:08:38]",
@@ -2157,7 +2157,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_6_active.mp4"
+        "video_path": "./videos/sample_6_proactive.mp4"
     },
     {
         "time": "[0:11:04 - 0:11:24]",
@@ -2172,7 +2172,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_6_active.mp4"
+        "video_path": "./videos/sample_6_proactive.mp4"
     },
     {
         "time": "[0:00:00 - 0:00:30]",
@@ -2187,7 +2187,7 @@
             }
         ],
         "video_categories": "basketball",
-        "video_path": "./videos/sample_13_active.mp4"
+        "video_path": "./videos/sample_13_proactive.mp4"
     },
     {
         "time": "[0:02:31 - 0:03:01]",
@@ -2202,7 +2202,7 @@
             }
         ],
         "video_categories": "basketball",
-        "video_path": "./videos/sample_13_active.mp4"
+        "video_path": "./videos/sample_13_proactive.mp4"
     },
     {
         "time": "[0:05:02 - 0:05:32]",
@@ -2217,7 +2217,7 @@
             }
         ],
         "video_categories": "basketball",
-        "video_path": "./videos/sample_13_active.mp4"
+        "video_path": "./videos/sample_13_proactive.mp4"
     },
     {
         "time": "[0:07:33 - 0:08:03]",
@@ -2232,7 +2232,7 @@
             }
         ],
         "video_categories": "basketball",
-        "video_path": "./videos/sample_13_active.mp4"
+        "video_path": "./videos/sample_13_proactive.mp4"
     },
     {
         "time": "[0:10:04 - 0:10:34]",
@@ -2247,7 +2247,7 @@
             }
         ],
         "video_categories": "basketball",
-        "video_path": "./videos/sample_13_active.mp4"
+        "video_path": "./videos/sample_13_proactive.mp4"
     },
     {
         "time": "[0:00:00 - 0:00:30]",
@@ -2262,7 +2262,7 @@
             }
         ],
         "video_categories": "basketball",
-        "video_path": "./videos/sample_15_active.mp4"
+        "video_path": "./videos/sample_15_proactive.mp4"
     },
     {
         "time": "[0:00:36 - 0:01:06]",
@@ -2277,7 +2277,7 @@
             }
         ],
         "video_categories": "basketball",
-        "video_path": "./videos/sample_15_active.mp4"
+        "video_path": "./videos/sample_15_proactive.mp4"
     },
     {
         "time": "[0:01:12 - 0:01:42]",
@@ -2292,7 +2292,7 @@
             }
         ],
         "video_categories": "basketball",
-        "video_path": "./videos/sample_15_active.mp4"
+        "video_path": "./videos/sample_15_proactive.mp4"
     },
     {
         "time": "[0:01:48 - 0:02:18]",
@@ -2307,7 +2307,7 @@
             }
         ],
         "video_categories": "basketball",
-        "video_path": "./videos/sample_15_active.mp4"
+        "video_path": "./videos/sample_15_proactive.mp4"
     },
     {
         "time": "[0:02:24 - 0:02:54]",
@@ -2322,7 +2322,7 @@
             }
         ],
         "video_categories": "basketball",
-        "video_path": "./videos/sample_15_active.mp4"
+        "video_path": "./videos/sample_15_proactive.mp4"
     },
     {
         "time": "[0:00:00 - 0:00:10]",
@@ -2337,7 +2337,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_33_active.mp4"
+        "video_path": "./videos/sample_33_proactive.mp4"
     },
     {
         "time": "[0:02:18 - 0:02:28]",
@@ -2352,7 +2352,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_33_active.mp4"
+        "video_path": "./videos/sample_33_proactive.mp4"
     },
     {
         "time": "[0:04:36 - 0:04:46]",
@@ -2367,7 +2367,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_33_active.mp4"
+        "video_path": "./videos/sample_33_proactive.mp4"
     },
     {
         "time": "[0:06:54 - 0:07:04]",
@@ -2382,7 +2382,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_33_active.mp4"
+        "video_path": "./videos/sample_33_proactive.mp4"
     },
     {
         "time": "[0:09:12 - 0:09:22]",
@@ -2397,7 +2397,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_33_active.mp4"
+        "video_path": "./videos/sample_33_proactive.mp4"
     },
     {
         "time": "[0:00:00 - 0:00:10]",
@@ -2412,7 +2412,7 @@
             }
         ],
         "video_categories": "football",
-        "video_path": "./videos/sample_44_active.mp4"
+        "video_path": "./videos/sample_44_proactive.mp4"
     },
     {
         "time": "[0:01:15 - 0:01:25]",
@@ -2427,7 +2427,7 @@
             }
         ],
         "video_categories": "football",
-        "video_path": "./videos/sample_44_active.mp4"
+        "video_path": "./videos/sample_44_proactive.mp4"
     },
     {
         "time": "[0:02:30 - 0:02:40]",
@@ -2442,7 +2442,7 @@
             }
         ],
         "video_categories": "football",
-        "video_path": "./videos/sample_44_active.mp4"
+        "video_path": "./videos/sample_44_proactive.mp4"
     },
     {
         "time": "[0:03:45 - 0:03:55]",
@@ -2457,7 +2457,7 @@
             }
         ],
         "video_categories": "football",
-        "video_path": "./videos/sample_44_active.mp4"
+        "video_path": "./videos/sample_44_proactive.mp4"
     },
     {
         "time": "[0:05:00 - 0:05:10]",
@@ -2472,7 +2472,7 @@
             }
         ],
         "video_categories": "football",
-        "video_path": "./videos/sample_44_active.mp4"
+        "video_path": "./videos/sample_44_proactive.mp4"
     },
     {
         "time": "[0:00:00 - 0:00:30]",
@@ -2487,7 +2487,7 @@
             }
         ],
         "video_categories": "football",
-        "video_path": "./videos/sample_46_active.mp4"
+        "video_path": "./videos/sample_46_proactive.mp4"
     },
     {
         "time": "[0:02:01 - 0:02:31]",
@@ -2502,7 +2502,7 @@
             }
         ],
         "video_categories": "football",
-        "video_path": "./videos/sample_46_active.mp4"
+        "video_path": "./videos/sample_46_proactive.mp4"
     },
     {
         "time": "[0:04:02 - 0:04:32]",
@@ -2517,7 +2517,7 @@
             }
         ],
         "video_categories": "football",
-        "video_path": "./videos/sample_46_active.mp4"
+        "video_path": "./videos/sample_46_proactive.mp4"
     },
     {
         "time": "[0:06:03 - 0:06:33]",
@@ -2532,7 +2532,7 @@
             }
         ],
         "video_categories": "football",
-        "video_path": "./videos/sample_46_active.mp4"
+        "video_path": "./videos/sample_46_proactive.mp4"
     },
     {
         "time": "[0:08:04 - 0:08:34]",
@@ -2547,7 +2547,7 @@
             }
         ],
         "video_categories": "football",
-        "video_path": "./videos/sample_46_active.mp4"
+        "video_path": "./videos/sample_46_proactive.mp4"
     },
     {
         "time": "[0:00:00 - 0:00:10]",
@@ -2562,7 +2562,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_40_active.mp4"
+        "video_path": "./videos/sample_40_proactive.mp4"
     },
     {
         "time": "[0:01:13 - 0:01:23]",
@@ -2577,7 +2577,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_40_active.mp4"
+        "video_path": "./videos/sample_40_proactive.mp4"
     },
     {
         "time": "[0:02:26 - 0:02:36]",
@@ -2592,7 +2592,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_40_active.mp4"
+        "video_path": "./videos/sample_40_proactive.mp4"
     },
     {
         "time": "[0:03:39 - 0:03:49]",
@@ -2607,7 +2607,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_40_active.mp4"
+        "video_path": "./videos/sample_40_proactive.mp4"
     },
     {
         "time": "[0:04:52 - 0:05:02]",
@@ -2622,7 +2622,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_40_active.mp4"
+        "video_path": "./videos/sample_40_proactive.mp4"
     },
     {
         "time": "[0:00:00 - 0:00:10]",
@@ -2637,7 +2637,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_34_active.mp4"
+        "video_path": "./videos/sample_34_proactive.mp4"
     },
     {
         "time": "[0:02:41 - 0:02:51]",
@@ -2652,7 +2652,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_34_active.mp4"
+        "video_path": "./videos/sample_34_proactive.mp4"
     },
     {
         "time": "[0:05:22 - 0:05:32]",
@@ -2667,7 +2667,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_34_active.mp4"
+        "video_path": "./videos/sample_34_proactive.mp4"
     },
     {
         "time": "[0:08:03 - 0:08:13]",
@@ -2682,7 +2682,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_34_active.mp4"
+        "video_path": "./videos/sample_34_proactive.mp4"
     },
     {
         "time": "[0:10:44 - 0:10:54]",
@@ -2697,7 +2697,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_34_active.mp4"
+        "video_path": "./videos/sample_34_proactive.mp4"
     },
     {
         "time": "[0:00:00 - 0:00:10]",
@@ -2712,7 +2712,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_26_active.mp4"
+        "video_path": "./videos/sample_26_proactive.mp4"
     },
     {
         "time": "[0:02:48 - 0:02:58]",
@@ -2727,7 +2727,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_26_active.mp4"
+        "video_path": "./videos/sample_26_proactive.mp4"
     },
     {
         "time": "[0:05:36 - 0:05:46]",
@@ -2742,7 +2742,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_26_active.mp4"
+        "video_path": "./videos/sample_26_proactive.mp4"
     },
     {
         "time": "[0:08:24 - 0:08:34]",
@@ -2757,7 +2757,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_26_active.mp4"
+        "video_path": "./videos/sample_26_proactive.mp4"
     },
     {
         "time": "[0:11:12 - 0:11:22]",
@@ -2772,7 +2772,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_26_active.mp4"
+        "video_path": "./videos/sample_26_proactive.mp4"
     },
     {
         "time": "[0:00:00 - 0:00:30]",
@@ -2787,7 +2787,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_21_active.mp4"
+        "video_path": "./videos/sample_21_proactive.mp4"
     },
     {
         "time": "[0:02:25 - 0:02:55]",
@@ -2802,7 +2802,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_21_active.mp4"
+        "video_path": "./videos/sample_21_proactive.mp4"
     },
     {
         "time": "[0:04:50 - 0:05:20]",
@@ -2817,7 +2817,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_21_active.mp4"
+        "video_path": "./videos/sample_21_proactive.mp4"
     },
     {
         "time": "[0:07:15 - 0:07:45]",
@@ -2832,7 +2832,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_21_active.mp4"
+        "video_path": "./videos/sample_21_proactive.mp4"
     },
     {
         "time": "[0:09:40 - 0:10:10]",
@@ -2847,7 +2847,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_21_active.mp4"
+        "video_path": "./videos/sample_21_proactive.mp4"
     },
     {
         "time": "[0:00:00 - 0:00:30]",
@@ -2862,7 +2862,7 @@
             }
         ],
         "video_categories": "basketball",
-        "video_path": "./videos/sample_16_active.mp4"
+        "video_path": "./videos/sample_16_proactive.mp4"
     },
     {
         "time": "[0:02:55 - 0:03:25]",
@@ -2877,7 +2877,7 @@
             }
         ],
         "video_categories": "basketball",
-        "video_path": "./videos/sample_16_active.mp4"
+        "video_path": "./videos/sample_16_proactive.mp4"
     },
     {
         "time": "[0:05:50 - 0:06:20]",
@@ -2892,7 +2892,7 @@
             }
         ],
         "video_categories": "basketball",
-        "video_path": "./videos/sample_16_active.mp4"
+        "video_path": "./videos/sample_16_proactive.mp4"
     },
     {
         "time": "[0:08:45 - 0:09:15]",
@@ -2907,7 +2907,7 @@
             }
         ],
         "video_categories": "basketball",
-        "video_path": "./videos/sample_16_active.mp4"
+        "video_path": "./videos/sample_16_proactive.mp4"
     },
     {
         "time": "[0:11:40 - 0:12:10]",
@@ -2922,7 +2922,7 @@
             }
         ],
         "video_categories": "basketball",
-        "video_path": "./videos/sample_16_active.mp4"
+        "video_path": "./videos/sample_16_proactive.mp4"
     },
     {
         "time": "[0:00:00 - 0:01:00]",
@@ -2937,7 +2937,7 @@
             }
         ],
         "video_categories": "kid's cartoon",
-        "video_path": "./videos/sample_1_active.mp4"
+        "video_path": "./videos/sample_1_proactive.mp4"
     },
     {
         "time": "[0:01:00 - 0:02:00]",
@@ -2952,7 +2952,7 @@
             }
         ],
         "video_categories": "kid's cartoon",
-        "video_path": "./videos/sample_1_active.mp4"
+        "video_path": "./videos/sample_1_proactive.mp4"
     },
     {
         "time": "[0:02:00 - 0:03:00]",
@@ -2967,7 +2967,7 @@
             }
         ],
         "video_categories": "kid's cartoon",
-        "video_path": "./videos/sample_1_active.mp4"
+        "video_path": "./videos/sample_1_proactive.mp4"
     },
     {
         "time": "[0:06:00 - 0:07:00]",
@@ -2982,7 +2982,7 @@
             }
         ],
         "video_categories": "kid's cartoon",
-        "video_path": "./videos/sample_1_active.mp4"
+        "video_path": "./videos/sample_1_proactive.mp4"
     },
     {
         "time": "[0:10:00 - 0:11:00]",
@@ -2997,7 +2997,7 @@
             }
         ],
         "video_categories": "kid's cartoon",
-        "video_path": "./videos/sample_1_active.mp4"
+        "video_path": "./videos/sample_1_proactive.mp4"
     },
     {
         "time": "[0:00:00 - 0:00:20]",
@@ -3012,7 +3012,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_10_active.mp4"
+        "video_path": "./videos/sample_10_proactive.mp4"
     },
     {
         "time": "[0:01:46 - 0:02:06]",
@@ -3027,7 +3027,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_10_active.mp4"
+        "video_path": "./videos/sample_10_proactive.mp4"
     },
     {
         "time": "[0:03:32 - 0:03:52]",
@@ -3042,7 +3042,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_10_active.mp4"
+        "video_path": "./videos/sample_10_proactive.mp4"
     },
     {
         "time": "[0:05:18 - 0:05:38]",
@@ -3057,7 +3057,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_10_active.mp4"
+        "video_path": "./videos/sample_10_proactive.mp4"
     },
     {
         "time": "[0:07:04 - 0:07:24]",
@@ -3072,7 +3072,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_10_active.mp4"
+        "video_path": "./videos/sample_10_proactive.mp4"
     },
     {
         "time": "[0:00:00 - 0:01:00]",
@@ -3095,7 +3095,7 @@
             }
         ],
         "video_categories": "playing_card",
-        "video_path": "./videos/sample_2_active.mp4"
+        "video_path": "./videos/sample_2_proactive.mp4"
     },
     {
         "time": "[0:09:00 - 0:10:00]",
@@ -3110,7 +3110,7 @@
             }
         ],
         "video_categories": "playing_card",
-        "video_path": "./videos/sample_2_active.mp4"
+        "video_path": "./videos/sample_2_proactive.mp4"
     },
     {
         "time": "[0:11:00 - 0:12:00]",
@@ -3133,7 +3133,7 @@
             }
         ],
         "video_categories": "playing_card",
-        "video_path": "./videos/sample_2_active.mp4"
+        "video_path": "./videos/sample_2_proactive.mp4"
     },
     {
         "time": "[0:00:00 - 0:00:30]",
@@ -3148,7 +3148,7 @@
             }
         ],
         "video_categories": "football",
-        "video_path": "./videos/sample_47_active.mp4"
+        "video_path": "./videos/sample_47_proactive.mp4"
     },
     {
         "time": "[0:01:28 - 0:01:58]",
@@ -3163,7 +3163,7 @@
             }
         ],
         "video_categories": "football",
-        "video_path": "./videos/sample_47_active.mp4"
+        "video_path": "./videos/sample_47_proactive.mp4"
     },
     {
         "time": "[0:02:56 - 0:03:26]",
@@ -3178,7 +3178,7 @@
             }
         ],
         "video_categories": "football",
-        "video_path": "./videos/sample_47_active.mp4"
+        "video_path": "./videos/sample_47_proactive.mp4"
     },
     {
         "time": "[0:04:24 - 0:04:54]",
@@ -3193,7 +3193,7 @@
             }
         ],
         "video_categories": "football",
-        "video_path": "./videos/sample_47_active.mp4"
+        "video_path": "./videos/sample_47_proactive.mp4"
     },
     {
         "time": "[0:05:52 - 0:06:22]",
@@ -3208,7 +3208,7 @@
             }
         ],
         "video_categories": "football",
-        "video_path": "./videos/sample_47_active.mp4"
+        "video_path": "./videos/sample_47_proactive.mp4"
     },
     {
         "time": "[0:00:00 - 0:00:30]",
@@ -3223,7 +3223,7 @@
             }
         ],
         "video_categories": "tennis",
-        "video_path": "./videos/sample_20_active.mp4"
+        "video_path": "./videos/sample_20_proactive.mp4"
     },
     {
         "time": "[0:01:37 - 0:02:07]",
@@ -3238,7 +3238,7 @@
             }
         ],
         "video_categories": "tennis",
-        "video_path": "./videos/sample_20_active.mp4"
+        "video_path": "./videos/sample_20_proactive.mp4"
     },
     {
         "time": "[0:03:14 - 0:03:44]",
@@ -3253,7 +3253,7 @@
             }
         ],
         "video_categories": "tennis",
-        "video_path": "./videos/sample_20_active.mp4"
+        "video_path": "./videos/sample_20_proactive.mp4"
     },
     {
         "time": "[0:04:51 - 0:05:21]",
@@ -3268,7 +3268,7 @@
             }
         ],
         "video_categories": "tennis",
-        "video_path": "./videos/sample_20_active.mp4"
+        "video_path": "./videos/sample_20_proactive.mp4"
     },
     {
         "time": "[0:06:28 - 0:06:58]",
@@ -3283,7 +3283,7 @@
             }
         ],
         "video_categories": "tennis",
-        "video_path": "./videos/sample_20_active.mp4"
+        "video_path": "./videos/sample_20_proactive.mp4"
     },
     {
         "time": "[0:00:00 - 0:00:20]",
@@ -3298,7 +3298,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_11_active.mp4"
+        "video_path": "./videos/sample_11_proactive.mp4"
     },
     {
         "time": "[0:03:33 - 0:03:53]",
@@ -3313,7 +3313,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_11_active.mp4"
+        "video_path": "./videos/sample_11_proactive.mp4"
     },
     {
         "time": "[0:07:06 - 0:07:26]",
@@ -3328,7 +3328,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_11_active.mp4"
+        "video_path": "./videos/sample_11_proactive.mp4"
     },
     {
         "time": "[0:10:39 - 0:10:59]",
@@ -3343,7 +3343,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_11_active.mp4"
+        "video_path": "./videos/sample_11_proactive.mp4"
     },
     {
         "time": "[0:14:12 - 0:14:32]",
@@ -3358,7 +3358,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_11_active.mp4"
+        "video_path": "./videos/sample_11_proactive.mp4"
     },
     {
         "time": "[0:00:00 - 0:00:10]",
@@ -3373,7 +3373,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_29_active.mp4"
+        "video_path": "./videos/sample_29_proactive.mp4"
     },
     {
         "time": "[0:02:49 - 0:02:59]",
@@ -3388,7 +3388,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_29_active.mp4"
+        "video_path": "./videos/sample_29_proactive.mp4"
     },
     {
         "time": "[0:05:38 - 0:05:48]",
@@ -3403,7 +3403,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_29_active.mp4"
+        "video_path": "./videos/sample_29_proactive.mp4"
     },
     {
         "time": "[0:08:27 - 0:08:37]",
@@ -3418,7 +3418,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_29_active.mp4"
+        "video_path": "./videos/sample_29_proactive.mp4"
     },
     {
         "time": "[0:11:16 - 0:11:26]",
@@ -3433,7 +3433,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_29_active.mp4"
+        "video_path": "./videos/sample_29_proactive.mp4"
     },
     {
         "time": "[0:00:00 - 0:00:10]",
@@ -3448,7 +3448,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_30_active.mp4"
+        "video_path": "./videos/sample_30_proactive.mp4"
     },
     {
         "time": "[0:02:28 - 0:02:38]",
@@ -3463,7 +3463,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_30_active.mp4"
+        "video_path": "./videos/sample_30_proactive.mp4"
     },
     {
         "time": "[0:04:56 - 0:05:06]",
@@ -3478,7 +3478,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_30_active.mp4"
+        "video_path": "./videos/sample_30_proactive.mp4"
     },
     {
         "time": "[0:07:24 - 0:07:34]",
@@ -3493,7 +3493,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_30_active.mp4"
+        "video_path": "./videos/sample_30_proactive.mp4"
     },
     {
         "time": "[0:09:52 - 0:10:02]",
@@ -3508,7 +3508,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_30_active.mp4"
+        "video_path": "./videos/sample_30_proactive.mp4"
     },
     {
         "time": "[0:00:00 - 0:00:10]",
@@ -3523,7 +3523,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_37_active.mp4"
+        "video_path": "./videos/sample_37_proactive.mp4"
     },
     {
         "time": "[0:01:53 - 0:02:03]",
@@ -3538,7 +3538,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_37_active.mp4"
+        "video_path": "./videos/sample_37_proactive.mp4"
     },
     {
         "time": "[0:03:46 - 0:03:56]",
@@ -3553,7 +3553,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_37_active.mp4"
+        "video_path": "./videos/sample_37_proactive.mp4"
     },
     {
         "time": "[0:05:39 - 0:05:49]",
@@ -3568,7 +3568,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_37_active.mp4"
+        "video_path": "./videos/sample_37_proactive.mp4"
     },
     {
         "time": "[0:07:32 - 0:07:42]",
@@ -3583,7 +3583,7 @@
             }
         ],
         "video_categories": "playing card",
-        "video_path": "./videos/sample_37_active.mp4"
+        "video_path": "./videos/sample_37_proactive.mp4"
     },
     {
         "time": "[0:00:00 - 0:00:20]",
@@ -3598,7 +3598,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_7_active.mp4"
+        "video_path": "./videos/sample_7_proactive.mp4"
     },
     {
         "time": "[0:02:50 - 0:03:10]",
@@ -3613,7 +3613,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_7_active.mp4"
+        "video_path": "./videos/sample_7_proactive.mp4"
     },
     {
         "time": "[0:05:40 - 0:06:00]",
@@ -3628,7 +3628,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_7_active.mp4"
+        "video_path": "./videos/sample_7_proactive.mp4"
     },
     {
         "time": "[0:08:30 - 0:08:50]",
@@ -3643,7 +3643,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_7_active.mp4"
+        "video_path": "./videos/sample_7_proactive.mp4"
     },
     {
         "time": "[0:11:20 - 0:11:40]",
@@ -3658,7 +3658,7 @@
             }
         ],
         "video_categories": "snooker",
-        "video_path": "./videos/sample_7_active.mp4"
+        "video_path": "./videos/sample_7_proactive.mp4"
     },
     {
         "time": "[0:00:00 - 0:00:30]",
@@ -3673,7 +3673,7 @@
             }
         ],
         "video_categories": "football",
-        "video_path": "./videos/sample_45_active.mp4"
+        "video_path": "./videos/sample_45_proactive.mp4"
     },
     {
         "time": "[0:01:28 - 0:01:58]",
@@ -3688,7 +3688,7 @@
             }
         ],
         "video_categories": "football",
-        "video_path": "./videos/sample_45_active.mp4"
+        "video_path": "./videos/sample_45_proactive.mp4"
     },
     {
         "time": "[0:02:56 - 0:03:26]",
@@ -3703,7 +3703,7 @@
             }
         ],
         "video_categories": "football",
-        "video_path": "./videos/sample_45_active.mp4"
+        "video_path": "./videos/sample_45_proactive.mp4"
     },
     {
         "time": "[0:04:24 - 0:04:54]",
@@ -3718,7 +3718,7 @@
             }
         ],
         "video_categories": "football",
-        "video_path": "./videos/sample_45_active.mp4"
+        "video_path": "./videos/sample_45_proactive.mp4"
     },
     {
         "time": "[0:05:52 - 0:06:22]",
@@ -3733,6 +3733,6 @@
             }
         ],
         "video_categories": "football",
-        "video_path": "./videos/sample_45_active.mp4"
+        "video_path": "./videos/sample_45_proactive.mp4"
     }
 ]

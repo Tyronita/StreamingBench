@@ -50,9 +50,33 @@ As MLLMs continue to advance, they remain largely focused on offline video compr
 
 ## 🔮 Evaluation Pipeline
 
+### Requirements
 
+- Python 3.x
+- moviepy
 
+### Data Preparation
 
+Download all the files from the <a href="https://huggingface.co/datasets/mjuicem/StreamingBench">Dataset</a>. Then decompress the files and put them in the `./data` folder. You should organize the files as follows:
+
+```
+StreamingBench/
+├── data/
+│   ├── real/               # Unzip Real Time Visual Understanding_*.zip to this folder
+│   ├── omini/              # Unzip other .zip files to this folder
+│   ├── sqa/                # Unzip Sequential Question Answering_*.zip to this folder
+│   └── proactive/          # Unzip Proactive Output_*.zip to this folder
+...
+```
+
+After that, you can run the following command to preprocess the data:
+```bash
+bash scripts/preprocess.sh
+```
+
+### Model Preparation
+
+Follow the guidance <a href="./docs/model_guide.md">here</a> to prepare the model.
 
 ## ⚙️ Data Construction Pipeline
 

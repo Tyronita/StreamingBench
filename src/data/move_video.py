@@ -10,7 +10,7 @@ def main(src, dest):
     for root, dirs, files in os.walk(src):
         for file in files:
             if file.endswith('.mp4'):
-                TYPE = root.split('\\')[-2].replace(' ', '_')
+                TYPE = root.split('/')[-2].replace(' ', '_')
                 sample_folder = os.path.basename(root)
                 new_file_name = f"{sample_folder}_{TYPE}.mp4"
                 src_file_path = os.path.join(root, file)

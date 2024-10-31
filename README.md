@@ -82,52 +82,5 @@ Here’s a revised version of your markdown for clarity and better guidance:
 
 Prepare your own model for evaluation by following the instructions provided [here](./docs/model_guide.md). This guide will help you set up and configure your model to ensure it is ready for testing against the dataset.
 
-## ⚙️ Data Construction Pipeline
-
-### Directory Structure
-```
-src/data_construction/
-├── videos/                  # Input video files
-│   ├── sample_1/
-│   │   ├── video.mp4
-│   │   ├── images/
-│   │   ├── captions.json
-│   │   └── questions.json
-│   │   ...
-├── run_pipeline.py         # Main pipeline script
-├── config.py              # Configuration settings
-├── captions/              # Caption generation modules
-│   ├── dense_captions.py
-│   └── sparse_captions.py
-├── questions/            # Question generation module
-│   └── give_questions.py
-└── prompt/              # Prompt templates
-    └── prompt.py
-```
-
-### Configure API settings in `config.py`:
-```python
-API_CONFIG = {
-    'OPENAI_API_KEY': '',  # TODO: Add your OpenAI API key here
-    'OPENAI_BASE_URL': '', # TODO: Add your OpenAI API base URL here
-}
-```
-
-### Run the pipeline
-```bash
-python run_pipeline.py --sample_dir <sample_dir> --mode <processing_modes>
-```
-Available processing modes: 
-- `dense`: Generate detailed captions for every segment of the video
-- `sparse`: Generate captions for selected key segments only
-- `questions`: Generate questions based on the captions
-
-Example:
-```bash
-python run_pipeline.py --sample_dir sample_2 --mode dense questions
-``` 
-
-## 🖥️ Experimental Results
-
 
 ## 📝 Citation

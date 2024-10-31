@@ -1,4 +1,4 @@
-# New Model Guide
+# Model Settings Guide
 In order to properly evaluate a given LM, we require implementation of a wrapper class subclassing the `model.modelclass` class, that defines how the streamingbench should interface with your model. This guide walks through how to write this subclass via adding it to the library!
 
 ## Setup

@@ -48,6 +48,8 @@ As MLLMs continue to advance, they remain largely focused on offline video compr
 
 
 
+Here’s a revised version of your markdown for clarity and better guidance:
+
 ## 🔮 Evaluation Pipeline
 
 ### Requirements
@@ -57,26 +59,28 @@ As MLLMs continue to advance, they remain largely focused on offline video compr
 
 ### Data Preparation
 
-Download all the files from the <a href="https://huggingface.co/datasets/mjuicem/StreamingBench">Dataset</a>. Then decompress the files and put them in the `./data` folder. You should organize the files as follows:
+1. **Download Dataset**: Retrieve all necessary files from the [StreamingBench Dataset](https://huggingface.co/datasets/mjuicem/StreamingBench).
+   
+2. **Decompress Files**: Extract the downloaded files and organize them in the `./data` directory as follows:
 
-```
-StreamingBench/
-├── data/
-│   ├── real/               # Unzip Real Time Visual Understanding_*.zip to this folder
-│   ├── omini/              # Unzip other .zip files to this folder
-│   ├── sqa/                # Unzip Sequential Question Answering_*.zip to this folder
-│   └── proactive/          # Unzip Proactive Output_*.zip to this folder
-...
-```
+   ```
+   StreamingBench/
+   ├── data/
+   │   ├── real/               # Unzip Real Time Visual Understanding_*.zip into this folder
+   │   ├── omini/              # Unzip other .zip files into this folder
+   │   ├── sqa/                # Unzip Sequential Question Answering_*.zip into this folder
+   │   └── proactive/          # Unzip Proactive Output_*.zip into this folder
+   ```
 
-After that, you can run the following command to preprocess the data:
-```bash
-bash scripts/preprocess.sh
-```
+3. **Preprocess Data**: Run the following command to preprocess the data:
+
+   ```bash
+   bash scripts/preprocess.sh
+   ```
 
 ### Model Preparation
 
-Follow the guidance <a href="./docs/model_guide.md">here</a> to prepare the model.
+Prepare your own model for evaluation by following the instructions provided [here](./docs/model_guide.md). This guide will help you set up and configure your model to ensure it is ready for testing against the dataset.
 
 ## ⚙️ Data Construction Pipeline
 

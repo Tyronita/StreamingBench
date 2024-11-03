@@ -77,24 +77,29 @@ https://github.com/user-attachments/assets/3231a191-0da4-4b40-8cd6-eb7c77549cf7
 ### Model Preparation
 
 Prepare your own model for evaluation by following the instructions provided [here](./docs/model_guide.md). This guide will help you set up and configure your model to ensure it is ready for testing against the dataset.
+## 🔬 Experimental Results
 
-## 🔬Experimental Results
--  Performance of various MLLMs on StreamingBench.
+### Performance of Various MLLMs on StreamingBench
+- All Context
 <div align="center">
   <img src="./figs/result_1.png" width="80%" alt="Task Taxonomy">
 </div>
--  Performance of different MLLMs on the proactive output task
-"≤ xs" means that the answer is considered correct if the actual output time is within x seconds of the ground truth.
-<div align="center">
-  <img src="./figs/po.png" width="80%" alt="Task Taxonomy">
-</div>
--  Performance of various MLLMs on StreamingBench, with only the first 60 seconds of context preceding the query time.
+
+- 60 seconds of context preceding the query time
 <div align="center">
   <img src="./figs/result_2.png" width="80%" alt="Task Taxonomy">
 </div>
-- Comparison between the main experiment and the experiment retaining only the first 60
-seconds of video context preceding the query time.
-<div align="center">
+
+- Comparison of Main Experiment vs. 60 Seconds of Video Context
+- <div align="center">
   <img src="./figs/heatmap.png" width="80%" alt="Task Taxonomy">
 </div>
+
+### Performance of Different MLLMs on the Proactive Output Task
+*"≤ xs" means that the answer is considered correct if the actual output time is within x seconds of the ground truth.*
+<div align="center">
+  <img src="./figs/po.png" width="80%" alt="Task Taxonomy">
+</div>
+
+
 ## 📝 Citation

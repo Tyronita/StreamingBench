@@ -46,14 +46,6 @@ https://github.com/user-attachments/assets/3231a191-0da4-4b40-8cd6-eb7c77549cf7
   </video>
 </div>
 
-## 🔍 Dataset
-
-**License**: [License information to be added]
-
-
-
-Here’s a revised version of your markdown for clarity and better guidance:
-
 ## 🔮 Evaluation Pipeline
 
 ### Requirements

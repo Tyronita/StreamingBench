@@ -51,7 +51,7 @@ def StreamingBenchProactiveEval(data, MODEL, output_path):
 
                 interval = 1
 
-                clip_file = split_video(video_path, current_time)
+                clip_file = split_video(video_path, start_time, current_time)
 
                 # Model inference
                 time_s = time.time()

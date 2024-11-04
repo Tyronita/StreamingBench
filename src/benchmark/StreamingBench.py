@@ -42,7 +42,7 @@ def StreamingBenchEval(data, MODEL, output_path):
             # convert timestamps like "00:03:10" to seconds
             timestamp = sum(int(x) * 60 ** i for i, x in enumerate(reversed(timestamp.split(":"))))
 
-            file = split_video(video_path, timestamp)
+            file = split_video(video_path, 0, timestamp)
 
             ques = question["question"]
             if "options" in question.keys():

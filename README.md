@@ -19,8 +19,8 @@ As MLLMs continue to advance, they remain largely focused on offline video compr
 
 ### Key Evaluation Aspects
 - 🎯 **Real-time Visual Understanding**: Can the model process and respond to visual changes in real-time?
-- 🔊 **Omni-source Understanding**: Does the model integrate visual and audio inputs synchronously as seen in live environments?
-- 🎬 **Contextual Understanding**: Can the model maintain continuity in its responses based on historical interactions within the video?
+- 🔊 **Omni-source Understanding**: Does the model integrate visual and audio inputs synchronously in real-time video streams?
+- 🎬 **Contextual Understanding**: Can the model comprehend the broader context within video streams?
 
 ### Dataset Statistics
 - 📊 **900** diverse videos

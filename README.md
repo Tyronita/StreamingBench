@@ -5,7 +5,7 @@
 
   <div style="margin: 30px 0">
     <a href="https://streamingbench.github.io/" style="margin: 0 10px">🏠 Project Page</a> |
-    <a href="https://arxiv.org/pdf/ICLR_2025" style="margin: 0 10px">📄 arXiv Paper</a> |
+    <a href="https://arxiv.org/abs/2411.03628" style="margin: 0 10px">📄 arXiv Paper</a> |
     <a href="https://huggingface.co/datasets/mjuicem/StreamingBench" style="margin: 0 10px">📦 Dataset</a> |
     <a href="https://streamingbench.github.io/#leaderboard" style="margin: 0 10px">🏅Leaderboard</a>
   </div>

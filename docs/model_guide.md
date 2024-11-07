@@ -1,5 +1,5 @@
 # Model Settings Guide
-In order to properly evaluate a given LM, we require implementation of a wrapper class subclassing the `model.modelclass` class, that defines how the streamingbench should interface with your model. This guide walks through how to write this subclass via adding it to the library!
+In order to properly evaluate a given MLLM, we require implementation of a wrapper class subclassing the `model.modelclass` class, that defines how the streamingbench should interface with your model. This guide walks through how to write this subclass via adding it to the library!
 
 ## Setup
 
@@ -96,14 +96,4 @@ if [ "$EVAL_MODEL" = "<your_model_name>" ]; then
     conda activate your_conda_env
     CUDA_VISIBLE_DEVICES=$Devices python eval.py --model_name $EVAL_MODEL --benchmark_name $BENCHMARK --data_file $DATA_FILE --output_file $OUTPUT_FILE
 ```
-
-## Evaluation
-
-Now you can run the benchmark with your model:
-
-```sh
-bash eval.sh
-```
-
-This will run the benchmark and save the results to the specified output file.
 

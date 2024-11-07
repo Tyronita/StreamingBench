@@ -1,16 +1,49 @@
 cd ../src
-EVAL_MODEL="<your_model_name>"
 
+# Change the model name to the model you want to evaluate
+
+EVAL_MODEL="MiniCPM-V"
 Devices=0
-DATA_FILE="./data/questions_real.json"
-OUTPUT_FILE="./data/active_output_GPT4o.json"
 
-# Streaming for real-time visual understanding and omini-source understanding
-# StreamingSQA for sequential question answering
-# StreamingProactive for proactive output
+# For real-time visual understanding 
+
+TASK="real"
+DATA_FILE="./data/questions_${TASK}.json"
+OUTPUT_FILE="./data/${TASK}_output_MiniCPM-V.json"
 BENCHMARK="Streaming"
 
-# source /yeesuanAI05/miniconda3/etc/profile.d/conda.sh # enable conda change
+if [ "$EVAL_MODEL" = "MiniCPM-V" ]; then
+    conda activate MiniCPM-V
+    CUDA_VISIBLE_DEVICES=$Devices python eval.py --model_name $EVAL_MODEL --benchmark_name $BENCHMARK --data_file $DATA_FILE --output_file $OUTPUT_FILE
+
+# For omini-source understanding
+
+TASK="omini"
+DATA_FILE="./data/questions_${TASK}.json"
+OUTPUT_FILE="./data/${TASK}_output_MiniCPM-V.json"
+BENCHMARK="Streaming"
+
+if [ "$EVAL_MODEL" = "MiniCPM-V" ]; then
+    conda activate MiniCPM-V
+    CUDA_VISIBLE_DEVICES=$Devices python eval.py --model_name $EVAL_MODEL --benchmark_name $BENCHMARK --data_file $DATA_FILE --output_file $OUTPUT_FILE
+
+# For sequential question answering
+
+TASK="sqa"
+DATA_FILE="./data/questions_${TASK}.json"
+OUTPUT_FILE="./data/${TASK}_output_MiniCPM-V.json"
+BENCHMARK="StreamingSQA"
+
+if [ "$EVAL_MODEL" = "MiniCPM-V" ]; then
+    conda activate MiniCPM-V
+    CUDA_VISIBLE_DEVICES=$Devices python eval.py --model_name $EVAL_MODEL --benchmark_name $BENCHMARK --data_file $DATA_FILE --output_file $OUTPUT_FILE
+
+# For proactive output
+
+TASK="proactive"
+DATA_FILE="./data/questions_${TASK}.json"
+OUTPUT_FILE="./data/${TASK}_output_MiniCPM-V.json"
+BENCHMARK="StreamingProactive"
 
 if [ "$EVAL_MODEL" = "MiniCPM-V" ]; then
     conda activate MiniCPM-V

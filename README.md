@@ -103,3 +103,11 @@ Prepare your own model for evaluation by following the instructions provided [he
 
 
 ## 📝 Citation
+```bibtex
+@article{lin2024streaming,
+  title={StreamingBench: Assessing the Gap for MLLMs to Achieve Streaming Video Understanding},
+  author={Junming Lin and Zheng Fang and Chi Chen and Zihao Wan and Fuwen Luo and Peng Li and Yang Liu and Maosong Sun},
+  journal={arXiv preprint arXiv:2411.03628},
+  year={2024}
+}
+```

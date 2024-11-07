@@ -3,18 +3,17 @@ In order to properly evaluate a given MLLM, we require implementation of a wrapp
 
 ## Setup
 
-To get started contributing, go ahead and fork the main repo, clone it, create a branch with the name of your task.
+To get started, go ahead and clone the main repo.
 
 ```sh
-# After forking...
 git clone https://github.com/Fzacker/StreamingBench.git
 cd StreamingBench/src
 ```
 
-Now, we'll create a new file where we'll be adding our model:
+Now, you need to create a new file where you'll be adding your model:
 
 ```sh
-touch model/<my_model_filename>.py
+touch model/<your_model_filename>.py
 ```
 
 **As a rule of thumb, we recommend you to use `model/Qwen2VL.py` and `model/LLaVAOneVision.py` as reference implementations for your model. You can copy and paste the contents of one of these files into your new file to get started.**

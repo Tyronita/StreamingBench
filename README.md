@@ -77,6 +77,17 @@ https://github.com/user-attachments/assets/3231a191-0da4-4b40-8cd6-eb7c77549cf7
 ### Model Preparation
 
 Prepare your own model for evaluation by following the instructions provided [here](./docs/model_guide.md). This guide will help you set up and configure your model to ensure it is ready for testing against the dataset.
+
+### Evaluation
+
+Now you can run the benchmark:
+
+```sh
+bash eval.sh
+```
+
+This will run the benchmark and save the results to the specified output file.
+
 ## 🔬 Experimental Results
 
 ### Performance of Various MLLMs on StreamingBench

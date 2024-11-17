@@ -70,7 +70,8 @@ https://github.com/user-attachments/assets/e6d1655d-ab3f-47a7-973a-8fd6c8962307
 3. **Preprocess Data**: Run the following command to preprocess the data:
 
    ```bash
-   bash scripts/preprocess.sh
+   cd ./scripts
+   bash preprocess.sh
    ```
 
 ### Model Preparation
@@ -85,7 +86,10 @@ Now you can run the benchmark:
 bash eval.sh
 ```
 
-This will run the benchmark and save the results to the specified output file.
+This will run the benchmark and save the results to the specified output file. Then you can calculate the metrics using the following command:
+```sh
+bash stats.sh
+```
 
 ## 🔬 Experimental Results
 

@@ -9,42 +9,43 @@ Devices=0
 
 TASK="real"
 DATA_FILE="./data/questions_${TASK}.json"
-OUTPUT_FILE="./data/${TASK}_output_MiniCPM-V.json"
+OUTPUT_FILE="./data/${TASK}_output_${EVAL_MODEL}.json"
 BENCHMARK="Streaming"
 
 if [ "$EVAL_MODEL" = "MiniCPM-V" ]; then
     conda activate MiniCPM-V
     CUDA_VISIBLE_DEVICES=$Devices python eval.py --model_name $EVAL_MODEL --benchmark_name $BENCHMARK --data_file $DATA_FILE --output_file $OUTPUT_FILE
-
+fi
 # For omini-source understanding
 
 TASK="omini"
 DATA_FILE="./data/questions_${TASK}.json"
-OUTPUT_FILE="./data/${TASK}_output_MiniCPM-V.json"
+OUTPUT_FILE="./data/${TASK}_output_${EVAL_MODEL}.json"
 BENCHMARK="Streaming"
 
 if [ "$EVAL_MODEL" = "MiniCPM-V" ]; then
     conda activate MiniCPM-V
     CUDA_VISIBLE_DEVICES=$Devices python eval.py --model_name $EVAL_MODEL --benchmark_name $BENCHMARK --data_file $DATA_FILE --output_file $OUTPUT_FILE
-
+fi
 # For sequential question answering
 
 TASK="sqa"
 DATA_FILE="./data/questions_${TASK}.json"
-OUTPUT_FILE="./data/${TASK}_output_MiniCPM-V.json"
+OUTPUT_FILE="./data/${TASK}_output_${EVAL_MODEL}.json"
 BENCHMARK="StreamingSQA"
 
 if [ "$EVAL_MODEL" = "MiniCPM-V" ]; then
     conda activate MiniCPM-V
     CUDA_VISIBLE_DEVICES=$Devices python eval.py --model_name $EVAL_MODEL --benchmark_name $BENCHMARK --data_file $DATA_FILE --output_file $OUTPUT_FILE
-
+fi
 # For proactive output
 
 TASK="proactive"
 DATA_FILE="./data/questions_${TASK}.json"
-OUTPUT_FILE="./data/${TASK}_output_MiniCPM-V.json"
+OUTPUT_FILE="./data/${TASK}_output_${EVAL_MODEL}.json"
 BENCHMARK="StreamingProactive"
 
 if [ "$EVAL_MODEL" = "MiniCPM-V" ]; then
     conda activate MiniCPM-V
     CUDA_VISIBLE_DEVICES=$Devices python eval.py --model_name $EVAL_MODEL --benchmark_name $BENCHMARK --data_file $DATA_FILE --output_file $OUTPUT_FILE
+fi

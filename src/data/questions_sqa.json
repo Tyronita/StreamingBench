@@ -4,7 +4,7 @@
             "time": "[0:01:00 - 0:02:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "Who is preparing to serve the ball now?",
                     "time_stamp": "00:00:36",
                     "answer": "A",
@@ -24,7 +24,7 @@
             "time": "[0:02:00 - 0:03:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the person mentioned in the last question scored now?",
                     "time_stamp": "00:03:02",
                     "answer": "C",
@@ -44,7 +44,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the opponent of the person mentioned in the previous question scored now?",
                     "time_stamp": "00:04:58",
                     "answer": "A",
@@ -64,7 +64,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score does the person mentioned in the first question have now?",
                     "time_stamp": "00:08:07",
                     "answer": "B",
@@ -84,7 +84,7 @@
             "time": "[0:06:00 - 0:07:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the person mentioned in the third question scored now?",
                     "time_stamp": "00:09:57",
                     "answer": "A",
@@ -106,7 +106,7 @@
             "time": "[0:01:00 - 0:02:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "Which team is currently on offense in the game?",
                     "time_stamp": "00:00:41",
                     "answer": "C",
@@ -126,7 +126,7 @@
             "time": "[0:02:00 - 0:03:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores has the team referred to in the previous question scored so far?",
                     "time_stamp": "00:02:53",
                     "answer": "C",
@@ -146,7 +146,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores has the opponent of the team referred to in the previous question scored now?",
                     "time_stamp": "00:04:19",
                     "answer": "A",
@@ -166,7 +166,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores does the team referred to in the first question have currently?",
                     "time_stamp": "00:07:05",
                     "answer": "B",
@@ -186,7 +186,7 @@
             "time": "[0:06:00 - 0:07:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores has the team that the third question specifically refers to scored now?",
                     "time_stamp": "00:08:56",
                     "answer": "C",
@@ -208,7 +208,7 @@
             "time": "[0:01:00 - 0:02:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "Which team is currently on offense in the game?",
                     "time_stamp": "00:00:43",
                     "answer": "A",
@@ -228,7 +228,7 @@
             "time": "[0:02:00 - 0:03:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores has the team referred to in the previous question scored so far?",
                     "time_stamp": "00:02:33",
                     "answer": "D",
@@ -248,7 +248,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores has the opponent of the team referred to in the previous question scored now?",
                     "time_stamp": "00:04:34",
                     "answer": "D",
@@ -268,7 +268,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores does the team referred to in the first question have currently?",
                     "time_stamp": "00:06:13",
                     "answer": "D",
@@ -288,7 +288,7 @@
             "time": "[0:06:00 - 0:07:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores has the team that the third question specifically refers to scored now?",
                     "time_stamp": "00:08:09",
                     "answer": "D",
@@ -310,7 +310,7 @@
             "time": "[0:01:00 - 0:02:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "Which team is currently on offense in the game?",
                     "time_stamp": "00:00:25",
                     "answer": "D",
@@ -330,7 +330,7 @@
             "time": "[0:02:00 - 0:03:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores has the team referred to in the previous question scored so far?",
                     "time_stamp": "00:02:42",
                     "answer": "D",
@@ -350,7 +350,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores has the opponent of the team referred to in the previous question scored now?",
                     "time_stamp": "00:04:27",
                     "answer": "D",
@@ -370,7 +370,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores does the team referred to in the first question have currently?",
                     "time_stamp": "00:06:12",
                     "answer": "D",
@@ -390,7 +390,7 @@
             "time": "[0:06:00 - 0:07:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores has the team that the third question specifically refers to scored now?",
                     "time_stamp": "00:08:04",
                     "answer": "A",
@@ -412,7 +412,7 @@
             "time": "[0:01:00 - 0:02:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "Which team is currently on offense in the game?",
                     "time_stamp": "00:00:31",
                     "answer": "A",
@@ -432,7 +432,7 @@
             "time": "[0:02:00 - 0:03:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores has the team referred to in the previous question scored so far?",
                     "time_stamp": "00:02:32",
                     "answer": "D",
@@ -452,7 +452,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores has the opponent of the team referred to in the previous question scored now?",
                     "time_stamp": "00:04:19",
                     "answer": "D",
@@ -472,7 +472,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores does the team referred to in the first question have currently?",
                     "time_stamp": "00:06:08",
                     "answer": "D",
@@ -492,7 +492,7 @@
             "time": "[0:06:00 - 0:07:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores has the team that the third question specifically refers to scored now?",
                     "time_stamp": "00:07:50",
                     "answer": "D",
@@ -514,7 +514,7 @@
             "time": "[0:01:00 - 0:02:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "Which team is currently on offense in the game?",
                     "time_stamp": "00:00:17",
                     "answer": "A",
@@ -534,7 +534,7 @@
             "time": "[0:02:00 - 0:03:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores has the team referred to in the previous question scored so far?",
                     "time_stamp": "00:03:36",
                     "answer": "A",
@@ -554,7 +554,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores has the opponent of the team referred to in the previous question scored now?",
                     "time_stamp": "00:04:06",
                     "answer": "A",
@@ -574,7 +574,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores does the team referred to in the first question have currently?",
                     "time_stamp": "00:06:53",
                     "answer": "D",
@@ -594,7 +594,7 @@
             "time": "[0:06:00 - 0:07:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores has the team that the third question specifically refers to scored now?",
                     "time_stamp": "00:08:09",
                     "answer": "A",
@@ -616,7 +616,7 @@
             "time": "[0:01:00 - 0:02:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "What is the name of the person wearing a red dress?",
                     "time_stamp": "00:00:37",
                     "answer": "A",
@@ -636,7 +636,7 @@
             "time": "[0:02:00 - 0:03:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the person referred to in the previous question obtained now?",
                     "time_stamp": "00:00:55",
                     "answer": "D",
@@ -656,7 +656,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score does the person referred to in the first question have now?",
                     "time_stamp": "00:01:54",
                     "answer": "A",
@@ -676,7 +676,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the opponent of the person referred to in the previous question scored now?",
                     "time_stamp": "00:02:08",
                     "answer": "D",
@@ -696,7 +696,7 @@
             "time": "[0:06:00 - 0:07:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the person referred to in the third question scored now?",
                     "time_stamp": "00:02:33",
                     "answer": "A",
@@ -718,7 +718,7 @@
             "time": "[0:01:00 - 0:02:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "Which team is currently on offense in the game?",
                     "time_stamp": "00:00:38",
                     "answer": "B",
@@ -738,7 +738,7 @@
             "time": "[0:02:00 - 0:03:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores has the team referred to in the previous question scored so far?",
                     "time_stamp": "00:02:58",
                     "answer": "C",
@@ -758,7 +758,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores has the opponent of the team referred to in the previous question scored now?",
                     "time_stamp": "00:04:09",
                     "answer": "D",
@@ -778,7 +778,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores does the team referred to in the first question have currently?",
                     "time_stamp": "00:06:53",
                     "answer": "D",
@@ -798,7 +798,7 @@
             "time": "[0:06:00 - 0:07:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores has the team that the third question specifically refers to scored now?",
                     "time_stamp": "00:08:14",
                     "answer": "C",
@@ -820,7 +820,7 @@
             "time": "[0:01:00 - 0:02:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "Which team is currently on offense in the game?",
                     "time_stamp": "00:00:31",
                     "answer": "A",
@@ -840,7 +840,7 @@
             "time": "[0:02:00 - 0:03:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores has the team referred to in the previous question scored so far?",
                     "time_stamp": "00:03:09",
                     "answer": "D",
@@ -860,7 +860,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores has the opponent of the team referred to in the previous question scored now?",
                     "time_stamp": "00:04:19",
                     "answer": "D",
@@ -880,7 +880,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores does the team referred to in the first question have currently?",
                     "time_stamp": "00:06:08",
                     "answer": "D",
@@ -900,7 +900,7 @@
             "time": "[0:06:00 - 0:07:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores has the team that the third question specifically refers to scored now?",
                     "time_stamp": "00:07:50",
                     "answer": "D",
@@ -922,7 +922,7 @@
             "time": "[0:01:00 - 0:02:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "What is the name of the person wearing a yellow dress?",
                     "time_stamp": "00:00:37",
                     "answer": "A",
@@ -942,7 +942,7 @@
             "time": "[0:02:00 - 0:03:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the person referred to in the previous question obtained now?",
                     "time_stamp": "00:02:03",
                     "answer": "C",
@@ -962,7 +962,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the opponent of the person referred to in the previous question scored now?",
                     "time_stamp": "00:02:21",
                     "answer": "C",
@@ -982,7 +982,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score does the person referred to in the first question have now?",
                     "time_stamp": "00:02:55",
                     "answer": "C",
@@ -1002,7 +1002,7 @@
             "time": "[0:06:00 - 0:07:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the person referred to in the third question scored now?",
                     "time_stamp": "00:03:17",
                     "answer": "A",
@@ -1024,7 +1024,7 @@
             "time": "[0:01:00 - 0:02:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "Which team is currently on offense in the game?",
                     "time_stamp": "00:00:34",
                     "answer": "D",
@@ -1044,7 +1044,7 @@
             "time": "[0:02:00 - 0:03:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores has the team referred to in the previous question scored so far?",
                     "time_stamp": "00:02:26",
                     "answer": "D",
@@ -1064,7 +1064,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores has the opponent of the team referred to in the previous question scored now?",
                     "time_stamp": "00:04:06",
                     "answer": "D",
@@ -1084,7 +1084,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores does the team referred to in the first question have currently?",
                     "time_stamp": "00:07:03",
                     "answer": "D",
@@ -1104,7 +1104,7 @@
             "time": "[0:06:00 - 0:07:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores has the team that the third question specifically refers to scored now?",
                     "time_stamp": "00:08:05",
                     "answer": "D",
@@ -1126,7 +1126,7 @@
             "time": "[0:00:00 - 0:01:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "Who is preparing to serve the ball now?",
                     "time_stamp": "00:00:28",
                     "answer": "B",
@@ -1146,7 +1146,7 @@
             "time": "[0:02:00 - 0:03:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the person mentioned in the last question scored now?",
                     "time_stamp": "00:02:18",
                     "answer": "C",
@@ -1166,7 +1166,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the opponent of the person mentioned in the previous question scored now?",
                     "time_stamp": "00:03:48",
                     "answer": "B",
@@ -1186,7 +1186,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score does the person mentioned in the first question have now?",
                     "time_stamp": "00:04:49",
                     "answer": "B",
@@ -1206,7 +1206,7 @@
             "time": "[0:06:00 - 0:07:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the person mentioned in the third question scored now?",
                     "time_stamp": "00:06:33",
                     "answer": "C",
@@ -1228,7 +1228,7 @@
             "time": "[0:01:00 - 0:02:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "Who is preparing to serve the ball now?",
                     "time_stamp": "00:01:36",
                     "answer": "A",
@@ -1248,7 +1248,7 @@
             "time": "[0:02:00 - 0:03:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the person mentioned in the last question scored now?",
                     "time_stamp": "00:02:55",
                     "answer": "C",
@@ -1268,7 +1268,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the opponent of the person mentioned in the previous question scored now?",
                     "time_stamp": "00:05:28",
                     "answer": "A",
@@ -1288,7 +1288,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score does the person mentioned in the first question have now?",
                     "time_stamp": "00:06:35",
                     "answer": "B",
@@ -1308,7 +1308,7 @@
             "time": "[0:06:00 - 0:07:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the person mentioned in the third question scored now?",
                     "time_stamp": "00:07:58",
                     "answer": "D",
@@ -1330,7 +1330,7 @@
             "time": "[0:01:00 - 0:02:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "What is the name of the person wearing the light blue dress?",
                     "time_stamp": "00:00:44",
                     "answer": "B",
@@ -1350,7 +1350,7 @@
             "time": "[0:02:00 - 0:03:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the person referred to in the previous question obtained now?",
                     "time_stamp": "00:01:03",
                     "answer": "A",
@@ -1370,7 +1370,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the opponent of the person referred to in the previous question scored now?",
                     "time_stamp": "00:01:49",
                     "answer": "C",
@@ -1390,7 +1390,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score does the person referred to in the first question have now?",
                     "time_stamp": "00:03:18",
                     "answer": "C",
@@ -1410,7 +1410,7 @@
             "time": "[0:06:00 - 0:07:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the person referred to in the third question scored now?",
                     "time_stamp": "00:05:14",
                     "answer": "C",
@@ -1432,7 +1432,7 @@
             "time": "[0:01:00 - 0:02:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "Who is preparing to serve the ball now?",
                     "time_stamp": "00:00:32",
                     "answer": "A",
@@ -1452,7 +1452,7 @@
             "time": "[0:02:00 - 0:03:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the person mentioned in the last question scored now?",
                     "time_stamp": "00:03:02",
                     "answer": "C",
@@ -1472,7 +1472,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the opponent of the person mentioned in the previous question scored now?",
                     "time_stamp": "00:05:28",
                     "answer": "A",
@@ -1492,7 +1492,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score does the person mentioned in the first question have now?",
                     "time_stamp": "00:08:07",
                     "answer": "B",
@@ -1512,7 +1512,7 @@
             "time": "[0:06:00 - 0:07:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the person mentioned in the third question scored now?",
                     "time_stamp": "00:09:46",
                     "answer": "D",
@@ -1534,7 +1534,7 @@
             "time": "[0:01:00 - 0:02:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "Who is preparing to serve the ball now?",
                     "time_stamp": "00:00:07",
                     "answer": "B",
@@ -1554,7 +1554,7 @@
             "time": "[0:02:00 - 0:03:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the person mentioned in the last question scored now?",
                     "time_stamp": "00:03:22",
                     "answer": "C",
@@ -1574,7 +1574,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the opponent of the person mentioned in the previous question scored now?",
                     "time_stamp": "00:03:48",
                     "answer": "B",
@@ -1594,7 +1594,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score does the person mentioned in the first question have now?",
                     "time_stamp": "00:06:20",
                     "answer": "B",
@@ -1614,7 +1614,7 @@
             "time": "[0:06:00 - 0:07:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the person mentioned in the third question scored now?",
                     "time_stamp": "00:08:01",
                     "answer": "C",
@@ -1636,7 +1636,7 @@
             "time": "[0:01:00 - 0:02:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "What is the name of the person wearing a white band on their head?",
                     "time_stamp": "00:00:18",
                     "answer": "A",
@@ -1656,7 +1656,7 @@
             "time": "[0:02:00 - 0:03:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the person referred to in the previous question obtained now?",
                     "time_stamp": "00:00:30",
                     "answer": "A",
@@ -1676,7 +1676,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the opponent of the person referred to in the previous question scored now?",
                     "time_stamp": "00:01:16",
                     "answer": "B",
@@ -1696,7 +1696,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score does the person referred to in the first question have now?",
                     "time_stamp": "00:01:34",
                     "answer": "A",
@@ -1716,7 +1716,7 @@
             "time": "[0:06:00 - 0:07:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the person referred to in the third question scored now?",
                     "time_stamp": "00:02:26",
                     "answer": "B",
@@ -1738,7 +1738,7 @@
             "time": "[0:01:00 - 0:02:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "Which team is currently on offense in the game?",
                     "time_stamp": "00:00:30",
                     "answer": "A",
@@ -1758,7 +1758,7 @@
             "time": "[0:02:00 - 0:03:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores has the team referred to in the previous question scored so far?",
                     "time_stamp": "00:02:37",
                     "answer": "C",
@@ -1778,7 +1778,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores has the opponent of the team referred to in the previous question scored now?",
                     "time_stamp": "00:04:09",
                     "answer": "D",
@@ -1798,7 +1798,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores does the team referred to in the first question have currently?",
                     "time_stamp": "00:06:13",
                     "answer": "D",
@@ -1818,7 +1818,7 @@
             "time": "[0:06:00 - 0:07:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores has the team that the third question specifically refers to scored now?",
                     "time_stamp": "00:08:14",
                     "answer": "C",
@@ -1840,7 +1840,7 @@
             "time": "[0:01:00 - 0:02:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "Who is preparing to serve the ball now?",
                     "time_stamp": "00:00:16",
                     "answer": "B",
@@ -1860,7 +1860,7 @@
             "time": "[0:02:00 - 0:03:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the person mentioned in the last question scored now?",
                     "time_stamp": "00:03:26",
                     "answer": "C",
@@ -1880,7 +1880,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the opponent of the person mentioned in the previous question scored now?",
                     "time_stamp": "00:04:04",
                     "answer": "B",
@@ -1900,7 +1900,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score does the person mentioned in the first question have now?",
                     "time_stamp": "00:05:04",
                     "answer": "C",
@@ -1920,7 +1920,7 @@
             "time": "[0:06:00 - 0:07:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the person mentioned in the third question scored now?",
                     "time_stamp": "00:09:09",
                     "answer": "C",
@@ -1942,7 +1942,7 @@
             "time": "[0:01:00 - 0:02:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "Who is preparing to serve the ball now?",
                     "time_stamp": "00:01:48",
                     "answer": "A",
@@ -1962,7 +1962,7 @@
             "time": "[0:02:00 - 0:03:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the person mentioned in the last question scored now?",
                     "time_stamp": "00:02:20",
                     "answer": "C",
@@ -1982,7 +1982,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the opponent of the person mentioned in the previous question scored now?",
                     "time_stamp": "00:03:48",
                     "answer": "B",
@@ -2002,7 +2002,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score does the person mentioned in the first question have now?",
                     "time_stamp": "00:04:37",
                     "answer": "B",
@@ -2022,7 +2022,7 @@
             "time": "[0:06:00 - 0:07:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the person mentioned in the third question scored now?",
                     "time_stamp": "00:05:44",
                     "answer": "C",
@@ -2044,7 +2044,7 @@
             "time": "[0:01:00 - 0:02:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "Which team is currently on offense in the game?",
                     "time_stamp": "00:00:16",
                     "answer": "D",
@@ -2064,7 +2064,7 @@
             "time": "[0:02:00 - 0:03:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores has the team referred to in the previous question scored so far?",
                     "time_stamp": "00:02:26",
                     "answer": "D",
@@ -2084,7 +2084,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores has the opponent of the team referred to in the previous question scored now?",
                     "time_stamp": "00:04:06",
                     "answer": "B",
@@ -2104,7 +2104,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores does the team referred to in the first question have currently?",
                     "time_stamp": "00:07:04",
                     "answer": "D",
@@ -2124,7 +2124,7 @@
             "time": "[0:06:00 - 0:07:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores has the team that the third question specifically refers to scored now?",
                     "time_stamp": "00:08:06",
                     "answer": "A",
@@ -2146,7 +2146,7 @@
             "time": "[0:01:00 - 0:02:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "Which team is currently on offense in the game?",
                     "time_stamp": "00:00:30",
                     "answer": "D",
@@ -2166,7 +2166,7 @@
             "time": "[0:02:00 - 0:03:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores has the team referred to in the previous question scored so far?",
                     "time_stamp": "00:02:54",
                     "answer": "C",
@@ -2186,7 +2186,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores has the opponent of the team referred to in the previous question scored now?",
                     "time_stamp": "00:04:23",
                     "answer": "B",
@@ -2206,7 +2206,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores does the team referred to in the first question have currently?",
                     "time_stamp": "00:07:05",
                     "answer": "B",
@@ -2226,7 +2226,7 @@
             "time": "[0:06:00 - 0:07:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores has the team that the third question specifically refers to scored now?",
                     "time_stamp": "00:08:56",
                     "answer": "C",
@@ -2248,7 +2248,7 @@
             "time": "[0:01:00 - 0:02:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "Who is preparing to serve the ball now?",
                     "time_stamp": "00:00:16",
                     "answer": "A",
@@ -2268,7 +2268,7 @@
             "time": "[0:02:00 - 0:03:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the person mentioned in the last question scored now?",
                     "time_stamp": "00:03:20",
                     "answer": "C",
@@ -2288,7 +2288,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the opponent of the person mentioned in the previous question scored now?",
                     "time_stamp": "00:04:48",
                     "answer": "B",
@@ -2308,7 +2308,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score does the person mentioned in the first question have now?",
                     "time_stamp": "00:07:15",
                     "answer": "B",
@@ -2328,7 +2328,7 @@
             "time": "[0:06:00 - 0:07:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the person mentioned in the third question scored now?",
                     "time_stamp": "00:10:16",
                     "answer": "C",
@@ -2350,7 +2350,7 @@
             "time": "[0:01:00 - 0:02:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "Which team is currently on offense in the game?",
                     "time_stamp": "00:00:28",
                     "answer": "B",
@@ -2370,7 +2370,7 @@
             "time": "[0:02:00 - 0:03:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores has the team referred to in the previous question scored so far?",
                     "time_stamp": "00:02:53",
                     "answer": "A",
@@ -2390,7 +2390,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores has the opponent of the team referred to in the previous question scored now?",
                     "time_stamp": "00:04:09",
                     "answer": "D",
@@ -2410,7 +2410,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores does the team referred to in the first question have currently?",
                     "time_stamp": "00:06:53",
                     "answer": "D",
@@ -2430,7 +2430,7 @@
             "time": "[0:06:00 - 0:07:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores has the team that the third question specifically refers to scored now?",
                     "time_stamp": "00:08:09",
                     "answer": "A",
@@ -2452,7 +2452,7 @@
             "time": "[0:01:00 - 0:02:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "What is the name of the person wearing the light blue dress?",
                     "time_stamp": "00:00:18",
                     "answer": "B",
@@ -2472,7 +2472,7 @@
             "time": "[0:02:00 - 0:03:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the person referred to in the previous question obtained now?",
                     "time_stamp": "00:00:30",
                     "answer": "C",
@@ -2492,7 +2492,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the opponent of the person referred to in the previous question scored now?",
                     "time_stamp": "00:01:07",
                     "answer": "B",
@@ -2512,7 +2512,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score does the person referred to in the first question have now?",
                     "time_stamp": "00:01:50",
                     "answer": "D",
@@ -2532,7 +2532,7 @@
             "time": "[0:06:00 - 0:07:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the person referred to in the third question scored now?",
                     "time_stamp": "00:02:28",
                     "answer": "B",
@@ -2554,7 +2554,7 @@
             "time": "[0:01:00 - 0:02:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "Who is preparing to serve the ball now?",
                     "time_stamp": "00:01:22",
                     "answer": "A",
@@ -2574,7 +2574,7 @@
             "time": "[0:02:00 - 0:03:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the person mentioned in the last question scored now?",
                     "time_stamp": "00:02:34",
                     "answer": "C",
@@ -2594,7 +2594,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the opponent of the person mentioned in the previous question scored now?",
                     "time_stamp": "00:03:48",
                     "answer": "B",
@@ -2614,7 +2614,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score does the person mentioned in the first question have now?",
                     "time_stamp": "00:04:37",
                     "answer": "B",
@@ -2634,7 +2634,7 @@
             "time": "[0:06:00 - 0:07:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the person mentioned in the third question scored now?",
                     "time_stamp": "00:05:44",
                     "answer": "C",
@@ -2656,7 +2656,7 @@
             "time": "[0:01:00 - 0:02:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "What is the name of the person wearing the light blue dress?",
                     "time_stamp": "00:00:17",
                     "answer": "B",
@@ -2676,7 +2676,7 @@
             "time": "[0:02:00 - 0:03:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the person referred to in the previous question obtained now?",
                     "time_stamp": "00:00:34",
                     "answer": "D",
@@ -2696,7 +2696,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the opponent of the person referred to in the previous question scored now?",
                     "time_stamp": "00:01:23",
                     "answer": "A",
@@ -2716,7 +2716,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score does the person referred to in the first question have now?",
                     "time_stamp": "00:01:50",
                     "answer": "D",
@@ -2736,7 +2736,7 @@
             "time": "[0:06:00 - 0:07:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the person referred to in the third question scored now?",
                     "time_stamp": "00:02:32",
                     "answer": "B",
@@ -2758,7 +2758,7 @@
             "time": "[0:01:00 - 0:02:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "Who is preparing to serve the ball now?",
                     "time_stamp": "00:00:14",
                     "answer": "A",
@@ -2778,7 +2778,7 @@
             "time": "[0:02:00 - 0:03:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the person mentioned in the last question scored now?",
                     "time_stamp": "00:03:22",
                     "answer": "C",
@@ -2798,7 +2798,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the opponent of the person mentioned in the previous question scored now?",
                     "time_stamp": "00:03:48",
                     "answer": "B",
@@ -2818,7 +2818,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score does the person mentioned in the first question have now?",
                     "time_stamp": "00:05:25",
                     "answer": "B",
@@ -2838,7 +2838,7 @@
             "time": "[0:06:00 - 0:07:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the person mentioned in the third question scored now?",
                     "time_stamp": "00:07:31",
                     "answer": "C",
@@ -2860,7 +2860,7 @@
             "time": "[0:01:00 - 0:02:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "Who is preparing to serve the ball now?",
                     "time_stamp": "00:01:15",
                     "answer": "A",
@@ -2880,7 +2880,7 @@
             "time": "[0:02:00 - 0:03:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the person mentioned in the last question scored now?",
                     "time_stamp": "00:02:34",
                     "answer": "C",
@@ -2900,7 +2900,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the opponent of the person mentioned in the previous question scored now?",
                     "time_stamp": "00:03:48",
                     "answer": "B",
@@ -2920,7 +2920,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score does the person mentioned in the first question have now?",
                     "time_stamp": "00:04:37",
                     "answer": "B",
@@ -2940,7 +2940,7 @@
             "time": "[0:06:00 - 0:07:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the person mentioned in the third question scored now?",
                     "time_stamp": "00:05:44",
                     "answer": "C",
@@ -2962,7 +2962,7 @@
             "time": "[0:01:00 - 0:02:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "Who is preparing to serve the ball now?",
                     "time_stamp": "00:00:18",
                     "answer": "B",
@@ -2982,7 +2982,7 @@
             "time": "[0:02:00 - 0:03:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the person mentioned in the last question scored now?",
                     "time_stamp": "00:03:26",
                     "answer": "C",
@@ -3002,7 +3002,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the opponent of the person mentioned in the previous question scored now?",
                     "time_stamp": "00:04:25",
                     "answer": "B",
@@ -3022,7 +3022,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score does the person mentioned in the first question have now?",
                     "time_stamp": "00:05:15",
                     "answer": "B",
@@ -3042,7 +3042,7 @@
             "time": "[0:06:00 - 0:07:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the person mentioned in the third question scored now?",
                     "time_stamp": "00:06:35",
                     "answer": "C",
@@ -3064,7 +3064,7 @@
             "time": "[0:01:00 - 0:02:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "Who is preparing to serve the ball now?",
                     "time_stamp": "00:01:39",
                     "answer": "B",
@@ -3084,7 +3084,7 @@
             "time": "[0:02:00 - 0:03:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the person mentioned in the last question scored now?",
                     "time_stamp": "00:03:21",
                     "answer": "C",
@@ -3104,7 +3104,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the opponent of the person mentioned in the previous question scored now?",
                     "time_stamp": "00:04:41",
                     "answer": "A",
@@ -3124,7 +3124,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score does the person mentioned in the first question have now?",
                     "time_stamp": "00:08:13",
                     "answer": "B",
@@ -3144,7 +3144,7 @@
             "time": "[0:06:00 - 0:07:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the person mentioned in the third question scored now?",
                     "time_stamp": "00:10:50",
                     "answer": "A",
@@ -3166,7 +3166,7 @@
             "time": "[0:01:00 - 0:02:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "Which team is currently on offense in the game?",
                     "time_stamp": "00:00:26",
                     "answer": "A",
@@ -3186,7 +3186,7 @@
             "time": "[0:02:00 - 0:03:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores has the team referred to in the previous question scored so far?",
                     "time_stamp": "00:02:58",
                     "answer": "C",
@@ -3206,7 +3206,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores has the opponent of the team referred to in the previous question scored now?",
                     "time_stamp": "00:04:15",
                     "answer": "C",
@@ -3226,7 +3226,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores does the team referred to in the first question have currently?",
                     "time_stamp": "00:07:02",
                     "answer": "B",
@@ -3246,7 +3246,7 @@
             "time": "[0:06:00 - 0:07:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores has the team that the third question specifically refers to scored now?",
                     "time_stamp": "00:07:42",
                     "answer": "C",
@@ -3268,7 +3268,7 @@
             "time": "[0:01:00 - 0:02:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "Which team is currently on offense in the game?",
                     "time_stamp": "00:00:23",
                     "answer": "A",
@@ -3288,7 +3288,7 @@
             "time": "[0:02:00 - 0:03:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores has the team referred to in the previous question scored so far?",
                     "time_stamp": "00:02:32",
                     "answer": "D",
@@ -3308,7 +3308,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores has the opponent of the team referred to in the previous question scored now?",
                     "time_stamp": "00:04:25",
                     "answer": "D",
@@ -3328,7 +3328,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores does the team referred to in the first question have currently?",
                     "time_stamp": "00:06:12",
                     "answer": "D",
@@ -3348,7 +3348,7 @@
             "time": "[0:06:00 - 0:07:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores has the team that the third question specifically refers to scored now?",
                     "time_stamp": "00:08:01",
                     "answer": "D",
@@ -3370,7 +3370,7 @@
             "time": "[0:01:00 - 0:02:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "Which team is currently on offense in the game?",
                     "time_stamp": "00:00:30",
                     "answer": "A",
@@ -3390,7 +3390,7 @@
             "time": "[0:02:00 - 0:03:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores has the team referred to in the previous question scored so far?",
                     "time_stamp": "00:02:33",
                     "answer": "D",
@@ -3410,7 +3410,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores has the opponent of the team referred to in the previous question scored now?",
                     "time_stamp": "00:04:25",
                     "answer": "D",
@@ -3430,7 +3430,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores does the team referred to in the first question have currently?",
                     "time_stamp": "00:06:09",
                     "answer": "D",
@@ -3450,7 +3450,7 @@
             "time": "[0:06:00 - 0:07:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores has the team that the third question specifically refers to scored now?",
                     "time_stamp": "00:08:02",
                     "answer": "D",
@@ -3472,7 +3472,7 @@
             "time": "[0:01:00 - 0:02:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "Which team is currently on offense in the game?",
                     "time_stamp": "00:00:15",
                     "answer": "C",
@@ -3492,7 +3492,7 @@
             "time": "[0:02:00 - 0:03:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores has the team referred to in the previous question scored so far?",
                     "time_stamp": "00:03:20",
                     "answer": "C",
@@ -3512,7 +3512,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores has the opponent of the team referred to in the previous question scored now?",
                     "time_stamp": "00:04:07",
                     "answer": "C",
@@ -3532,7 +3532,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores does the team referred to in the first question have currently?",
                     "time_stamp": "00:07:04",
                     "answer": "D",
@@ -3552,7 +3552,7 @@
             "time": "[0:06:00 - 0:07:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores has the team that the third question specifically refers to scored now?",
                     "time_stamp": "00:08:10",
                     "answer": "C",
@@ -3574,7 +3574,7 @@
             "time": "[0:01:00 - 0:02:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "Which team is currently on offense in the game?",
                     "time_stamp": "00:00:26",
                     "answer": "A",
@@ -3594,7 +3594,7 @@
             "time": "[0:02:00 - 0:03:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores has the team referred to in the previous question scored so far?",
                     "time_stamp": "00:02:53",
                     "answer": "A",
@@ -3614,7 +3614,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores has the opponent of the team referred to in the previous question scored now?",
                     "time_stamp": "00:04:10",
                     "answer": "D",
@@ -3634,7 +3634,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores does the team referred to in the first question have currently?",
                     "time_stamp": "00:06:56",
                     "answer": "D",
@@ -3654,7 +3654,7 @@
             "time": "[0:06:00 - 0:07:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores has the team that the third question specifically refers to scored now?",
                     "time_stamp": "00:08:05",
                     "answer": "A",
@@ -3676,7 +3676,7 @@
             "time": "[0:01:00 - 0:02:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "What is the name of the person wearing a red dress?",
                     "time_stamp": "00:00:37",
                     "answer": "A",
@@ -3696,7 +3696,7 @@
             "time": "[0:02:00 - 0:03:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the person referred to in the previous question obtained now?",
                     "time_stamp": "00:02:13",
                     "answer": "A",
@@ -3716,7 +3716,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the opponent of the person referred to in the previous question scored now?",
                     "time_stamp": "00:04:08",
                     "answer": "D",
@@ -3736,7 +3736,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score does the person referred to in the first question have now?",
                     "time_stamp": "00:06:35",
                     "answer": "C",
@@ -3756,7 +3756,7 @@
             "time": "[0:06:00 - 0:07:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the person referred to in the third question scored now?",
                     "time_stamp": "00:07:50",
                     "answer": "C",
@@ -3778,7 +3778,7 @@
             "time": "[0:01:00 - 0:02:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "What is the name of the person wearing the yellow dress?",
                     "time_stamp": "00:00:14",
                     "answer": "B",
@@ -3798,7 +3798,7 @@
             "time": "[0:02:00 - 0:03:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the person referred to in the previous question obtained now?",
                     "time_stamp": "00:00:26",
                     "answer": "D",
@@ -3818,7 +3818,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the opponent of the person referred to in the previous question scored now?",
                     "time_stamp": "00:01:07",
                     "answer": "B",
@@ -3838,7 +3838,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score does the person referred to in the first question have now?",
                     "time_stamp": "00:01:14",
                     "answer": "A",
@@ -3858,7 +3858,7 @@
             "time": "[0:06:00 - 0:07:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the person referred to in the third question scored now?",
                     "time_stamp": "00:01:42",
                     "answer": "A",
@@ -3880,7 +3880,7 @@
             "time": "[0:01:00 - 0:02:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "Who is preparing to serve the ball now?",
                     "time_stamp": "00:00:47",
                     "answer": "A",
@@ -3900,7 +3900,7 @@
             "time": "[0:02:00 - 0:03:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the person mentioned in the last question scored now?",
                     "time_stamp": "00:03:34",
                     "answer": "C",
@@ -3920,7 +3920,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the opponent of the person mentioned in the previous question scored now?",
                     "time_stamp": "00:04:41",
                     "answer": "A",
@@ -3940,7 +3940,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score does the person mentioned in the first question have now?",
                     "time_stamp": "00:08:06",
                     "answer": "B",
@@ -3960,7 +3960,7 @@
             "time": "[0:06:00 - 0:07:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the person mentioned in the third question scored now?",
                     "time_stamp": "00:10:07",
                     "answer": "A",
@@ -3982,7 +3982,7 @@
             "time": "[0:00:00 - 0:01:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "What is the person in the center of the video wearing?",
                     "time_stamp": "00:00:09",
                     "answer": "A",
@@ -3995,7 +3995,7 @@
                     "required_ability": "episodic memory"
                 },
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "Who is the person mentioned in the previous question interacting with right now?",
                     "time_stamp": "00:00:26",
                     "answer": "C",
@@ -4015,7 +4015,7 @@
             "time": "[0:04:00 - 0:05:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "What actions did the two individuals mentioned in the previous question just take?",
                     "time_stamp": "00:04:33",
                     "answer": "B",
@@ -4035,7 +4035,7 @@
             "time": "[0:05:00 - 0:06:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "What is the current outfit of the man mentioned in the first question?",
                     "time_stamp": "00:05:32",
                     "answer": "B",
@@ -4055,7 +4055,7 @@
             "time": "[0:09:00 - 0:10:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "What is the person mentioned in the previous question holding in their hand right now?",
                     "time_stamp": "00:09:06",
                     "answer": "C",
@@ -4077,7 +4077,7 @@
             "time": "[0:01:00 - 0:02:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "Who is preparing to serve the ball now?",
                     "time_stamp": "00:00:21",
                     "answer": "A",
@@ -4097,7 +4097,7 @@
             "time": "[0:02:00 - 0:03:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the person mentioned in the last question scored now?",
                     "time_stamp": "00:03:21",
                     "answer": "C",
@@ -4117,7 +4117,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the opponent of the person mentioned in the previous question scored now?",
                     "time_stamp": "00:04:01",
                     "answer": "B",
@@ -4137,7 +4137,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score does the person mentioned in the first question have now?",
                     "time_stamp": "00:05:04",
                     "answer": "B",
@@ -4157,7 +4157,7 @@
             "time": "[0:06:00 - 0:07:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the person mentioned in the third question scored now?",
                     "time_stamp": "00:05:34",
                     "answer": "C",
@@ -4179,7 +4179,7 @@
             "time": "[0:00:00 - 0:01:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "What number jersey is the player holding the ball wearing now?",
                     "time_stamp": "00:00:34",
                     "answer": "A",
@@ -4192,7 +4192,7 @@
                     "required_ability": "episodic memory"
                 },
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "To which jersey number did the player mentioned in the previous question just pass the ball?",
                     "time_stamp": "00:00:38",
                     "answer": "C",
@@ -4212,7 +4212,7 @@
             "time": "[0:02:00 - 0:03:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "To which jersey number did the player who received the pass in the previous question just pass the ball?",
                     "time_stamp": "00:02:57",
                     "answer": "B",
@@ -4232,7 +4232,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "In the previous question, the player who received the pass just assisted the player wearing which jersey number to score?",
                     "time_stamp": "00:03:13",
                     "answer": "B",
@@ -4252,7 +4252,7 @@
             "time": "[0:06:00 - 0:07:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "What did the player who received the pass in the previous question just do?",
                     "time_stamp": "00:06:42",
                     "answer": "C",
@@ -4274,7 +4274,7 @@
             "time": "[0:01:00 - 0:02:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "Which team is currently on offense in the game?",
                     "time_stamp": "00:00:25",
                     "answer": "A",
@@ -4294,7 +4294,7 @@
             "time": "[0:02:00 - 0:03:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores has the team referred to in the previous question scored so far?",
                     "time_stamp": "00:02:33",
                     "answer": "D",
@@ -4314,7 +4314,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores has the opponent of the team referred to in the previous question scored now?",
                     "time_stamp": "00:04:25",
                     "answer": "D",
@@ -4334,7 +4334,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores does the team referred to in the first question have currently?",
                     "time_stamp": "00:06:09",
                     "answer": "D",
@@ -4354,7 +4354,7 @@
             "time": "[0:06:00 - 0:07:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores has the team that the third question specifically refers to scored now?",
                     "time_stamp": "00:08:04",
                     "answer": "D",
@@ -4376,7 +4376,7 @@
             "time": "[0:01:00 - 0:02:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "Who is preparing to serve the ball now?",
                     "time_stamp": "00:01:15",
                     "answer": "B",
@@ -4396,7 +4396,7 @@
             "time": "[0:02:00 - 0:03:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the person mentioned in the last question scored now?",
                     "time_stamp": "00:03:04",
                     "answer": "C",
@@ -4416,7 +4416,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the opponent of the person mentioned in the previous question scored now?",
                     "time_stamp": "00:05:28",
                     "answer": "A",
@@ -4436,7 +4436,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score does the person mentioned in the first question have now?",
                     "time_stamp": "00:06:35",
                     "answer": "B",
@@ -4456,7 +4456,7 @@
             "time": "[0:06:00 - 0:07:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the person mentioned in the third question scored now?",
                     "time_stamp": "00:07:58",
                     "answer": "D",
@@ -4478,7 +4478,7 @@
             "time": "[0:01:00 - 0:02:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "Who is preparing to serve the ball now?",
                     "time_stamp": "00:00:15",
                     "answer": "B",
@@ -4498,7 +4498,7 @@
             "time": "[0:02:00 - 0:03:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the person mentioned in the last question scored now?",
                     "time_stamp": "00:03:26",
                     "answer": "C",
@@ -4518,7 +4518,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the opponent of the person mentioned in the previous question scored now?",
                     "time_stamp": "00:04:04",
                     "answer": "B",
@@ -4538,7 +4538,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score does the person mentioned in the first question have now?",
                     "time_stamp": "00:05:04",
                     "answer": "B",
@@ -4558,7 +4558,7 @@
             "time": "[0:06:00 - 0:07:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the person mentioned in the third question scored now?",
                     "time_stamp": "00:06:58",
                     "answer": "C",
@@ -4580,7 +4580,7 @@
             "time": "[0:01:00 - 0:02:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "What is the name of the person wearing a yellow dress?",
                     "time_stamp": "00:00:37",
                     "answer": "A",
@@ -4600,7 +4600,7 @@
             "time": "[0:02:00 - 0:03:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the person referred to in the previous question obtained now?",
                     "time_stamp": "00:01:55",
                     "answer": "B",
@@ -4620,7 +4620,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score does the person referred to in the first question have now?",
                     "time_stamp": "00:03:28",
                     "answer": "D",
@@ -4640,7 +4640,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the opponent of the person referred to in the previous question scored now?",
                     "time_stamp": "00:05:50",
                     "answer": "B",
@@ -4660,7 +4660,7 @@
             "time": "[0:06:00 - 0:07:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the person referred to in the third question scored now?",
                     "time_stamp": "00:08:25",
                     "answer": "A",
@@ -4682,7 +4682,7 @@
             "time": "[0:01:00 - 0:02:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "What is the name of the person wearing a white dress?",
                     "time_stamp": "00:00:37",
                     "answer": "A",
@@ -4702,7 +4702,7 @@
             "time": "[0:02:00 - 0:03:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the person referred to in the previous question obtained now?",
                     "time_stamp": "00:02:56",
                     "answer": "C",
@@ -4722,7 +4722,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score does the person referred to in the first question have now?",
                     "time_stamp": "00:04:34",
                     "answer": "B",
@@ -4742,7 +4742,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the opponent of the person referred to in the previous question scored now?",
                     "time_stamp": "00:07:05",
                     "answer": "B",
@@ -4762,7 +4762,7 @@
             "time": "[0:06:00 - 0:07:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the person referred to in the third question scored now?",
                     "time_stamp": "00:09:53",
                     "answer": "C",
@@ -4784,7 +4784,7 @@
             "time": "[0:01:00 - 0:02:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "Which team is currently on offense in the game?",
                     "time_stamp": "00:00:36",
                     "answer": "A",
@@ -4804,7 +4804,7 @@
             "time": "[0:02:00 - 0:03:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores has the team referred to in the previous question scored so far?",
                     "time_stamp": "00:02:58",
                     "answer": "A",
@@ -4824,7 +4824,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores has the opponent of the team referred to in the previous question scored now?",
                     "time_stamp": "00:04:08",
                     "answer": "A",
@@ -4844,7 +4844,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores does the team referred to in the first question have currently?",
                     "time_stamp": "00:06:53",
                     "answer": "D",
@@ -4864,7 +4864,7 @@
             "time": "[0:06:00 - 0:07:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores has the team that the third question specifically refers to scored now?",
                     "time_stamp": "00:08:09",
                     "answer": "A",
@@ -4886,7 +4886,7 @@
             "time": "[0:01:00 - 0:02:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "Who is preparing to serve the ball now?",
                     "time_stamp": "00:06:44",
                     "answer": "B",
@@ -4906,7 +4906,7 @@
             "time": "[0:02:00 - 0:03:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the person mentioned in the last question scored now?",
                     "time_stamp": "00:08:05",
                     "answer": "C",
@@ -4926,7 +4926,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the opponent of the person mentioned in the previous question scored now?",
                     "time_stamp": "00:09:16",
                     "answer": "B",
@@ -4946,7 +4946,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score does the person mentioned in the first question have now?",
                     "time_stamp": "00:10:44",
                     "answer": "B",
@@ -4966,7 +4966,7 @@
             "time": "[0:06:00 - 0:07:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How much game score has the person mentioned in the third question scored now?",
                     "time_stamp": "00:05:44",
                     "answer": "C",
@@ -4988,7 +4988,7 @@
             "time": "[0:01:00 - 0:02:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "Which team is currently on offense in the game?",
                     "time_stamp": "00:00:21",
                     "answer": "A",
@@ -5008,7 +5008,7 @@
             "time": "[0:02:00 - 0:03:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores has the team referred to in the previous question scored so far?",
                     "time_stamp": "00:02:33",
                     "answer": "D",
@@ -5028,7 +5028,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores has the opponent of the team referred to in the previous question scored now?",
                     "time_stamp": "00:04:25",
                     "answer": "D",
@@ -5048,7 +5048,7 @@
             "time": "[0:03:00 - 0:04:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores does the team referred to in the first question have currently?",
                     "time_stamp": "00:06:11",
                     "answer": "D",
@@ -5068,7 +5068,7 @@
             "time": "[0:06:00 - 0:07:00]",
             "questions": [
                 {
-                    "task_type": "Related Context Understanding",
+                    "task_type": "Sequential Question Answering",
                     "question": "How many game scores has the team that the third question specifically refers to scored now?",
                     "time_stamp": "00:08:02",
                     "answer": "D",

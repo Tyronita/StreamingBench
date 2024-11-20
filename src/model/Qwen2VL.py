@@ -1,5 +1,6 @@
 from transformers import Qwen2VLForConditionalGeneration, AutoProcessor
 from qwen_vl_utils import process_vision_info
+import re
 import os
 
 model, processor = None, None
@@ -28,7 +29,8 @@ def Qwen2VL_Init():
     processor = AutoProcessor.from_pretrained("Qwen/Qwen2-VL-7B-Instruct")
 
 def Qwen2VL_Run(file, inp):
-    frame_num = int(file.split('/')[-2].split('_')[-1])
+    numbers = re.findall(r'\d+', os.path.basename(file))
+    frame_num = int(numbers[-1]) - int(numbers[-2])
 
     if frame_num > 300 and frame_num < 600:
         fps = 0.5

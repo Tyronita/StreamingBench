@@ -16,11 +16,11 @@ def load_data(EVAL_DATA_FILE):
     
     return data
 
-def get_model_response(model, file, inp, timestamp):
+def get_model_response(model, file, inp):
     """
     Get the model response for the given input
     Model: Model name
     file: Video file path
     inp: Input prompt
     """
-    return model.Run(file, inp, timestamp)
+    return model.Run(file, inp)

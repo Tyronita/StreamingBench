@@ -3,11 +3,15 @@ import shutil
 import argparse
 
 def main(src, dest):
-    # 确保目标文件夹存在
+    # Ensure the target folder exists
     os.makedirs(dest, exist_ok=True)
 
-    # 遍历源文件夹及其子文件夹
+    # Traverse the source folder and its subfolders
     for root, dirs, files in os.walk(src):
+        if '__MACOSX' in root:
+            print(f"Skipping: {root}")
+            continue
+
         for file in files:
             if file.endswith('.mp4'):
                 TYPE = root.split('/')[-2].replace(' ', '_')
@@ -16,7 +20,7 @@ def main(src, dest):
                 src_file_path = os.path.join(root, file)
                 dest_file_path = os.path.join(dest, new_file_name)
                 
-                # 移动并重命名文件
+                # Move and rename the file
                 shutil.move(src_file_path, dest_file_path)
                 print(f"Moved: {src_file_path} to {dest_file_path}")
 
@@ -26,4 +30,3 @@ if __name__ == '__main__':
     parser.add_argument('--dest', type=str, required=True, help='Destination folder path')
     args = parser.parse_args()
     main(args.src, args.dest)
-        

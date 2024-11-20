@@ -18,8 +18,8 @@ class StreamingBenchProactive(Benchmark):
     def __init__(self, data):
         StreamingBenchProactiveInit(data)
 
-    def eval(self, data, model):
-        StreamingBenchProactiveEval(data, model)
+    def eval(self, data, model, output_path):
+        StreamingBenchProactiveEval(data, model, output_path)
 
 def StreamingBenchProactiveInit(data):
     pass

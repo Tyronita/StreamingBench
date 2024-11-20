@@ -25,8 +25,8 @@ class StreamingBench(Benchmark):
     def __init__(self, data):
         StreamingBenchInit(data)
 
-    def eval(self, data, model):
-        StreamingBenchEval(data, model)
+    def eval(self, data, model, output_path):
+        StreamingBenchEval(data, model, output_path)
 
 def StreamingBenchInit(data):
     pass

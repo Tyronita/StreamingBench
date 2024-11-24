@@ -15,7 +15,7 @@ def main(args):
     if args.benchmark_name == "Streaming":
         from benchmark.StreamingBench import StreamingBench
         benchmark = StreamingBench(data)
-    if args.benchmark_name == "StreamingProctive":
+    if args.benchmark_name == "StreamingProactive":
         from benchmark.StreamingBenchProactive import StreamingBenchProactive
         benchmark = StreamingBenchProactive(data)
     if args.benchmark_name == "StreamingSQA":

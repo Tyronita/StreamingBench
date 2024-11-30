@@ -62,7 +62,7 @@ https://github.com/user-attachments/assets/e6d1655d-ab3f-47a7-973a-8fd6c8962307
    StreamingBench/
    ├── data/
    │   ├── real/               # Unzip Real Time Visual Understanding_*.zip into this folder
-   │   ├── omini/              # Unzip other .zip files into this folder
+   │   ├── omni/               # Unzip other .zip files into this folder
    │   ├── sqa/                # Unzip Sequential Question Answering_*.zip into this folder
    │   └── proactive/          # Unzip Proactive Output_*.zip into this folder
    ```

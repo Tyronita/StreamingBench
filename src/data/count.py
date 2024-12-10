@@ -47,12 +47,15 @@ def count(args):
                 model_answer = question.get(model, None)
                 history = model_answer["dialog_history"]
                 last_time = history[-1]["time"]
+                lase_answer = history[-1]["content"]
 
                 if model_answer:
                     total += 1
                     stats[f'{task_type}']["total"] += 1
                     if -2 <= last_time - ground_truth_time <= 2:
-                        stats[f'{task_type}']["correct"] += 1
+                        stats[f'{task_type}']["time_correct"] += 1
+                        if question["ground_truth_output"] in lase_answer:
+                            stats[f'{task_type}']["answer_correct"] += 1
     else:
         for entry in data:
             for question in entry["questions"]:
@@ -71,8 +74,13 @@ def count(args):
                         stats["total"]["correct"] += 1
 
     # Calculate accuracy for each task_type
-    for task_type, counts in stats.items():
-        counts["accuracy"] = counts["correct"] / counts["total"] if counts["total"] > 0 else 0
+    if task == "proactive":
+        for task_type, counts in stats.items():
+            counts["time_accuracy"] = counts["time_correct"] / counts["total"] if counts["total"] > 0 else 0
+            counts["answer_accuracy"] = counts["answer_correct"] / counts["total"] if counts["total"] > 0 else 0
+    else:
+        for task_type, counts in stats.items():
+            counts["accuracy"] = counts["correct"] / counts["total"] if counts["total"] > 0 else 0
 
     # Save results as a JSON file
     with open(f'{model}_stats.json', 'w') as json_file:
@@ -80,17 +88,32 @@ def count(args):
 
     # Save results as a CSV file
     with open(f'{model}_stats.csv', 'w', newline='') as csv_file:
-        fieldnames = ["task_type", "total", "correct", "accuracy"]
+        if task == "proactive":
+            fieldnames = ["task_type", "total", "time_correct", "time_accuracy", "answer_correct", "answer_accuracy"]
+        else:
+            fieldnames = ["task_type", "total", "correct", "accuracy"]
+
         writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
-        
         writer.writeheader()
-        for task_type, counts in stats.items():
-            writer.writerow({
-                "task_type": task_type,
-                "total": counts["total"],
-                "correct": counts["correct"],
-                "accuracy": counts["accuracy"]
-            })
+
+        if task == "proactive":
+            for task_type, counts in stats.items():
+                writer.writerow({
+                    "task_type": task_type,
+                    "total": counts["total"],
+                    "time_correct": counts["time_correct"],
+                    "time_accuracy": counts["time_accuracy"],
+                    "answer_correct": counts["answer_correct"],
+                    "answer_accuracy": counts["answer_accuracy"]
+                })
+        else:
+            for task_type, counts in stats.items():
+                writer.writerow({
+                    "task_type": task_type,
+                    "total": counts["total"],
+                    "correct": counts["correct"],
+                    "accuracy": counts["accuracy"]
+                })
 
     print(f"{total} items have been statisticed")
 
